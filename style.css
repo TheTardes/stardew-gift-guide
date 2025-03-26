@@ -1,0 +1,37 @@
+body {
+    font-family: "Pixelify Sans", sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 120px;
+}
+
+h1 {
+    color: #6a4c93;
+	font-size: 60px;
+}
+
+h2 {
+	margin-top: 60px;
+	font-size: 40px;
+}
+
+/* NPC Selector */
+.npc-container {
+    margin: 20px;
+}
+
+label {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+select {
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 2px solid #6a4c93;
+    background-color: white;
+    cursor: pointer;
+}
