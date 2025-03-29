@@ -1,0 +1,299 @@
+[
+ {
+   "NPC Name": "Abigail",
+   "Birthday": "Fall 13",
+   "Loves": "Amethyst, Banana Pudding, Blackberry Cobbler, Chocolate Cake, Pufferfish, Pumpkin, Spicy Eel",
+   "Likes": "Quartz",
+   "Neutral": "Milk",
+   "Dislikes": "Wild Horseradish",
+   "Hates": "Clay, Sugar, Void Egg"
+ },
+ {
+   "NPC Name": "Haley",
+   "Birthday": "Spring 14",
+   "Loves": "Coconut, Fruit Salad, Pink Cake, Sunflower",
+   "Likes": "Daffodil",
+   "Neutral": "All Fruits",
+   "Dislikes": "Mayonnaise",
+   "Hates": "Pickles, Snow Yam, Wild Horseradish"
+ },
+ {
+   "NPC Name": "Sebastian",
+   "Birthday": "Winter 10",
+   "Loves": "Frozen Tear, Obsidian, Sashimi, Void Egg",
+   "Likes": "Quartz",
+   "Neutral": "Corn",
+   "Dislikes": "Honey",
+   "Hates": "Complete Breakfast, Eggplant Parmesan"
+ },
+ {
+   "NPC Name": "Elliott",
+   "Birthday": "Fall 5",
+   "Loves": "Crab Cakes, Duck Feather, Lobster, Pomegranate, Squid Ink, Tom Kha Soup",
+   "Likes": "Cloth",
+   "Neutral": "All Milk",
+   "Dislikes": "Pickles",
+   "Hates": "Amaranth"
+ },
+ {
+   "NPC Name": "Leah",
+   "Birthday": "Winter 23",
+   "Loves": "Goat Cheese, Poppyseed Muffin, Salad, Stir Fry, Truffle, Vegetable Medley, Wine",
+   "Likes": "Driftwood",
+   "Neutral": "Wild Horseradish",
+   "Dislikes": "Coconut",
+   "Hates": "Beer, Mead, Pale Ale, Wine"
+ },
+ {
+   "NPC Name": "Sam",
+   "Birthday": "Summer 17",
+   "Loves": "Cactus Fruit, Maple Bar, Pizza, Tigerseye",
+   "Likes": "Joja Cola",
+   "Neutral": "Cheese",
+   "Dislikes": "All Fish",
+   "Hates": "Mayonnaise"
+ },
+ {
+   "NPC Name": "Penny",
+   "Birthday": "Fall 2",
+   "Loves": "Diamond, Emerald, Melon, Poppy, Poppyseed Muffin, Red Plate, Roots Platter, Sandfish, Tom Kha Soup",
+   "Likes": "Sandfish",
+   "Neutral": "Eggs",
+   "Dislikes": "Garlic",
+   "Hates": "Beer, Mead, Rabbit's Foot, Wine"
+ },
+ {
+   "NPC Name": "Maru",
+   "Birthday": "Summer 10",
+   "Loves": "Battery Pack, Cauliflower, Cheese Cauliflower, Diamond, Gold Bar, Iridium Bar, Miner's Treat, Pepper Poppers, Radioactive Bar, Strawberry",
+   "Likes": "Copper Bar",
+   "Neutral": "Mushrooms",
+   "Dislikes": "Duck Feather",
+   "Hates": "Honey, Pickles, Snow Yam, Truffle"
+ },
+ {
+   "NPC Name": "Harvey",
+   "Birthday": "Winter 14",
+   "Loves": "Coffee, Pickles, Super Meal, Truffle, Wine",
+   "Likes": "Daffodil",
+   "Neutral": "Eggs",
+   "Dislikes": "Corn",
+   "Hates": "Mead, Rabbit's Foot, Truffle"
+ },
+ {
+   "NPC Name": "Emily",
+   "Birthday": "Spring 27",
+   "Loves": "Amethyst, Aquamarine, Cloth, Emerald, Jade, Ruby, Survival Burger, Topaz, Wool",
+   "Likes": "Quartz",
+   "Neutral": "Sugar",
+   "Dislikes": "All Fish",
+   "Hates": "Fish, Fried Egg, Maki Roll, Sashimi"
+ },
+ {
+   "NPC Name": "Alex",
+   "Birthday": "Summer 13",
+   "Loves": "Complete Breakfast, Salmon Dinner",
+   "Likes": "Egg",
+   "Neutral": "All Milk",
+   "Dislikes": "Garlic",
+   "Hates": "Quartz"
+ },
+ {
+   "NPC Name": "Shane",
+   "Birthday": "Spring 20",
+   "Loves": "Beer, Hot Pepper, Pepper Poppers, Pizza",
+   "Likes": "Egg",
+   "Neutral": "Cave Carrot",
+   "Dislikes": "All Fish",
+   "Hates": "Pickles, Quartz"
+ },
+ {
+   "NPC Name": "Jas",
+   "Birthday": "Summer 4",
+   "Loves": "Fairy Rose, Pink Cake, Plum Pudding",
+   "Likes": "Cookies",
+   "Neutral": "Chanterelle",
+   "Dislikes": "Yam",
+   "Hates": "Garlic"
+ },
+ {
+   "NPC Name": "Vincent",
+   "Birthday": "Spring 10",
+   "Loves": "Cranberry Candy, Ginger Ale, Grapes, Pink Cake, Snail",
+   "Likes": "Ginger Ale",
+   "Neutral": "Chanterelle",
+   "Dislikes": "Yam",
+   "Hates": "Garlic"
+ },
+ {
+   "NPC Name": "Caroline",
+   "Birthday": "Winter 7",
+   "Loves": "Fish Taco, Green Tea, Summer Spangle, Tropical Curry",
+   "Likes": "Dandelion",
+   "Neutral": "Hazelnut",
+   "Dislikes": "Garlic",
+   "Hates": "Spice Berry"
+ },
+ {
+   "NPC Name": "Pierre",
+   "Birthday": "Spring 26",
+   "Loves": "Fried Calamari",
+   "Likes": "Dandelion",
+   "Neutral": "Chanterelle",
+   "Dislikes": "Garlic",
+   "Hates": "Spice Berry"
+ },
+ {
+   "NPC Name": "Jodi",
+   "Birthday": "Fall 11",
+   "Loves": "Chocolate Cake, Diamond, Fried Eel, Pancakes, Rhubarb Pie, Vegetable Medley",
+   "Likes": "Pancakes",
+   "Neutral": "Mushroom",
+   "Dislikes": "Garlic",
+   "Hates": "Spice Berry"
+ },
+ {
+   "NPC Name": "Kent",
+   "Birthday": "Spring 4",
+   "Loves": "Fiddlehead Risotto, Roasted Hazelnuts",
+   "Likes": "Pizza",
+   "Neutral": "Pale Ale",
+   "Dislikes": "Garlic",
+   "Hates": "Spice Berry"
+ },
+ {
+   "NPC Name": "Demetrius",
+   "Birthday": "Summer 19",
+   "Loves": "Bean Hotpot, Ice Cream, Rice Pudding, Strawberry",
+   "Likes": "Strawberry",
+   "Neutral": "Mushroom",
+   "Dislikes": "Duck Feather",
+   "Hates": "Mead"
+ },
+ {
+   "NPC Name": "Robin",
+   "Birthday": "Fall 21",
+   "Loves": "Goat Cheese, Peach, Spaghetti",
+   "Likes": "Hardwood",
+   "Neutral": "Mushroom",
+   "Dislikes": "Duck Feather",
+   "Hates": "Mead"
+ },
+ {
+   "NPC Name": "Willy",
+   "Birthday": "Summer 24",
+   "Loves": "Catfish, Diamond, Mead, Octopus, Pumpkin, Sturgeon",
+   "Likes": "Quartz",
+   "Neutral": "Tea Leaves",
+   "Dislikes": "Beer",
+   "Hates": "Mayonnaise"
+ },
+ {
+   "NPC Name": "Pam",
+   "Birthday": "Spring 18",
+   "Loves": "Beer, Cactus Fruit, Glazed Yams, Mead, Parsnip Soup, Parsnips, Pale Ale",
+   "Likes": "Beer",
+   "Neutral": "Tea Leaves",
+   "Dislikes": "All Fish",
+   "Hates": "Coffee"
+ },
+ {
+   "NPC Name": "Linus",
+   "Birthday": "Winter 3",
+   "Loves": "Blueberry Tart, Cactus Fruit, Coconut, Dish o' The Sea, Yam",
+   "Likes": "Coconut",
+   "Neutral": "Bread",
+   "Dislikes": "Milk",
+   "Hates": "Beer"
+ },
+ {
+   "NPC Name": "George",
+   "Birthday": "Fall 24",
+   "Loves": "Leek, Fried Mushroom",
+   "Likes": "Leek",
+   "Neutral": "Milk",
+   "Dislikes": "Coffee",
+   "Hates": "Garlic"
+ },
+ {
+   "NPC Name": "Evelyn",
+   "Birthday": "Winter 20",
+   "Loves": "Beet, Chocolate Cake, Diamond, Fairy Rose, Tulip",
+   "Likes": "Dandelion",
+   "Neutral": "Tulip",
+   "Dislikes": "Corn",
+   "Hates": "Tomato"
+ },
+ {
+   "NPC Name": "Clint",
+   "Birthday": "Winter 26",
+   "Loves": "Amethyst, Aquamarine, Emerald, Gold Bar, Iridium Bar, Jade, Omni Geode, Ruby, Topaz",
+   "Likes": "Topaz",
+   "Neutral": "Honey",
+   "Dislikes": "Coffee",
+   "Hates": "Garlic"
+ },
+ {
+   "NPC Name": "Gus",
+   "Birthday": "Summer 8",
+   "Loves": "Diamond, Escargot, Fish Taco, Orange, Tropical Curry",
+   "Likes": "Fish Stew",
+   "Neutral": "Honey",
+   "Dislikes": "Duck Feather",
+   "Hates": "Garlic"
+ },
+ {
+   "NPC Name": "Marnie",
+   "Birthday": "Fall 18",
+   "Loves": "Diamond, Farmers Lunch, Pink Cake, Pumpkin Pie",
+   "Likes": "Quartz",
+   "Neutral": "Milk",
+   "Dislikes": "Coconut",
+   "Hates": "Garlic"
+ },
+ {
+   "NPC Name": "Lewis",
+   "Birthday": "Spring 7",
+   "Loves": "Autumn's Bounty, Glazed Yams, Vegetable Medley",
+   "Likes": "Hot Pepper",
+   "Neutral": "Cheese",
+   "Dislikes": "Tomato",
+   "Hates": "Spice Berry"
+ },
+ {
+   "NPC Name": "Dwarf",
+   "Birthday": "Summer 22",
+   "Loves": "Amethyst, Aquamarine, Emerald, Jade, Lemon Stone, Omni Geode, Ruby, Topaz",
+   "Likes": "Topaz",
+   "Neutral": "Quartz",
+   "Dislikes": "Duck Feather",
+   "Hates": "Spice Berry"
+ },
+ {
+   "NPC Name": "Sandy",
+   "Birthday": "Fall 15",
+   "Loves": "Crocus, Daffodil, Sweet Pea",
+   "Likes": "Sweet Pea",
+   "Neutral": "Green Tea",
+   "Dislikes": "Cheese",
+   "Hates": "Void Egg"
+ },
+ {
+   "NPC Name": "Wizard",
+   "Birthday": "Winter 17",
+   "Loves": "Purple Mushroom, Solar Essence, Void Essence",
+   "Likes": "Void Egg",
+   "Neutral": "Green Tea",
+   "Dislikes": "Cheese",
+   "Hates": "Void Egg"
+ },
+ {
+   "NPC Name": "Krobus",
+   "Birthday": "Winter 1",
+   "Loves": "Pumpkin, Void Egg",
+   "Likes": "Coffee",
+   "Neutral": "Green Tea",
+   "Dislikes": "Cheese",
+   "Hates": "Void Egg"
+ }
+]
