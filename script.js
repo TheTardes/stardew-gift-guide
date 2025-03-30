@@ -1,9 +1,11 @@
+let list;
 // Fetch gets your (local) JSON file…
 // https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 fetch('data.json')
     .then(response => response.json())
     .then(data => {
         // renderItems(data)
+        list=data;
         populateSelect(data)
     })
 
@@ -14,9 +16,23 @@ const populateSelect = (npcList) => {
         const item = `<option value="${npc.name}">${npc.name}</option>`
         npcSelect.insertAdjacentHTML('beforeend', item)
     });
-
 }
 
+const displayGifts = (npcSelect) => {
+    console.log(npcSelect)
+    const selectedNPC = list.find ((item)=>item.name===npcSelect.value)
+    console.log(selectedNPC)
+
+    const npcDisplay =document.getElementById('npc-display')
+
+    let item = `<h2>${selectedNPC.name}</h2><p>${selectedNPC.Birthday}</p><ul>`
+    selectedNPC.Loves.forEach(lovedGift => {
+        item = item + `<li><span>${lovedGift.name}</span><img src"${lovedGift.image}"></img></li>`
+    })
+    item = item + '</ul>'
+    
+    npcDisplay.insertAdjacentHTML('beforeend', item)
+}
 
 
 // // Function to render your items

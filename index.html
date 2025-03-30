@@ -20,24 +20,18 @@
 	<h1>🌻 Stardew Valley Gift Guide</h1>
 
 	<section id="giftDisplay">
-        <h2>NPC Gift Preferences</h2>
-        <p>Select an NPC to see their gift preferences.</p>
-    </section>
+		<h2>NPC Gift Preferences</h2>
+		<p>Select an NPC to see their gift preferences.</p>
+	</section>
 
-	   <!-- NPC Selection Dropdown -->
-	   <select id="npc-select">
-        <option value="" disabled selected>Find</option>
-    </select>
+	<!-- NPC Selection Dropdown -->
+	<select onchange="displayGifts(this)" id="npc-select">
+		<option value="" disabled selected>Find</option>
+	</select>
 
-	    <!-- NPC Gift Display Section -->
-		<div id="npc-display" class="hidden">
-			<h2 id="npc-name"></h2>
-			<!-- not sure about this -->
-			<img id="npcImage" src="" alt="NPC Image"> 
-			<p id="npcBirthday"></p>
-			<div id="giftCategories"></div>
-		</div>
-	
+	<!-- NPC Gift Display Section -->
+	<div id="npc-display">
+	</div>
 
-	
+
 </body>
