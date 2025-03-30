@@ -1,14 +1,24 @@
 // Fetch gets your (local) JSON file…
 // https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 fetch('data.json')
-	.then(response => response.json())
-	.then(data => {
-		renderItems(data)
-	})
+    .then(response => response.json())
+    .then(data => {
+        // renderItems(data)
+        populateSelect(data)
+    })
 
-  
+const populateSelect = (npcList) => {
+    const npcSelect = document.getElementById('npc-select')
 
-	
+    npcList.forEach(npc => {
+        const item = `<option value="${npc.name}">${npc.name}</option>`
+        npcSelect.insertAdjacentHTML('beforeend', item)
+    });
+
+}
+
+
+
 // // Function to render your items
 // const renderItems = (data) => {
 // 	// The `ul` where the items will be inserted
@@ -46,4 +56,4 @@ fetch('data.json')
 // 	})
 // }
 
-	
+

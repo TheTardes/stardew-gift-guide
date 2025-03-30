@@ -1,6 +1,6 @@
 [
     {
-        "NPC Name": "Abigail",
+        "name": "Abigail",
         "Birthday": "Fall 13",
         "Loves": [
             {
@@ -386,7 +386,7 @@
         ]
     },
     {
-        "NPC Name": "Haley",
+        "name": "Haley",
         "Birthday": "Spring 14",
         "Loves": [
             {
@@ -760,7 +760,7 @@
         ]
     },
     {
-        "NPC Name": "Sebastian",
+        "name": "Sebastian",
         "Birthday": "Winter 10",
         "Loves": [
             {
@@ -1130,7 +1130,7 @@
         ]
     },
     {
-        "NPC Name": "Elliott",
+        "name": "Elliott",
         "Birthday": "Fall 5",
         "Loves": [
             {
@@ -1504,7 +1504,7 @@
         ]
     },
     {
-        "NPC Name": "Leah",
+        "name": "Leah",
         "Birthday": "Winter 23",
         "Loves": [
             {
@@ -1894,7 +1894,7 @@
         ]
     },
     {
-        "NPC Name": "Sam",
+        "name": "Sam",
         "Birthday": "Summer 17",
         "Loves": [
             {
@@ -2260,7 +2260,7 @@
         ]
     },
     {
-        "NPC Name": "Penny",
+        "name": "Penny",
         "Birthday": "Fall 2",
         "Loves": [
             {
@@ -2658,7 +2658,7 @@
         ]
     },
     {
-        "NPC Name": "Maru",
+        "name": "Maru",
         "Birthday": "Summer 10",
         "Loves": [
             {
@@ -3060,7 +3060,7 @@
         ]
     },
     {
-        "NPC Name": "Harvey",
+        "name": "Harvey",
         "Birthday": "Winter 14",
         "Loves": [
             {
@@ -3438,7 +3438,7 @@
         ]
     },
     {
-        "NPC Name": "Emily",
+        "name": "Emily",
         "Birthday": "Spring 27",
         "Loves": [
             {
@@ -3836,7 +3836,7 @@
         ]
     },
     {
-        "NPC Name": "Alex",
+        "name": "Alex",
         "Birthday": "Summer 13",
         "Loves": [
             {
@@ -4194,7 +4194,7 @@
         ]
     },
     {
-        "NPC Name": "Shane",
+        "name": "Shane",
         "Birthday": "Spring 20",
         "Loves": [
             {
@@ -4564,7 +4564,7 @@
         ]
     },
     {
-        "NPC Name": "Jas",
+        "name": "Jas",
         "Birthday": "Summer 4",
         "Loves": [
             {
@@ -4926,7 +4926,7 @@
         ]
     },
     {
-        "NPC Name": "Vincent",
+        "name": "Vincent",
         "Birthday": "Spring 10",
         "Loves": [
             {
@@ -5296,7 +5296,7 @@
         ]
     },
     {
-        "NPC Name": "Caroline",
+        "name": "Caroline",
         "Birthday": "Winter 7",
         "Loves": [
             {
@@ -5662,7 +5662,7 @@
         ]
     },
     {
-        "NPC Name": "Pierre",
+        "name": "Pierre",
         "Birthday": "Spring 26",
         "Loves": [
             {
@@ -6016,7 +6016,7 @@
         ]
     },
     {
-        "NPC Name": "Jodi",
+        "name": "Jodi",
         "Birthday": "Fall 11",
         "Loves": [
             {
@@ -6390,7 +6390,7 @@
         ]
     },
     {
-        "NPC Name": "Kent",
+        "name": "Kent",
         "Birthday": "Spring 4",
         "Loves": [
             {
@@ -6748,7 +6748,7 @@
         ]
     },
     {
-        "NPC Name": "Demetrius",
+        "name": "Demetrius",
         "Birthday": "Summer 19",
         "Loves": [
             {
@@ -7114,7 +7114,7 @@
         ]
     },
     {
-        "NPC Name": "Robin",
+        "name": "Robin",
         "Birthday": "Fall 21",
         "Loves": [
             {
@@ -7476,7 +7476,7 @@
         ]
     },
     {
-        "NPC Name": "Willy",
+        "name": "Willy",
         "Birthday": "Summer 24",
         "Loves": [
             {
@@ -7850,7 +7850,7 @@
         ]
     },
     {
-        "NPC Name": "Pam",
+        "name": "Pam",
         "Birthday": "Spring 18",
         "Loves": [
             {
@@ -8228,7 +8228,7 @@
         ]
     },
     {
-        "NPC Name": "Linus",
+        "name": "Linus",
         "Birthday": "Winter 3",
         "Loves": [
             {
@@ -8598,7 +8598,7 @@
         ]
     },
     {
-        "NPC Name": "George",
+        "name": "George",
         "Birthday": "Fall 24",
         "Loves": [
             {
@@ -8956,7 +8956,7 @@
         ]
     },
     {
-        "NPC Name": "Evelyn",
+        "name": "Evelyn",
         "Birthday": "Winter 20",
         "Loves": [
             {
@@ -9326,7 +9326,7 @@
         ]
     },
     {
-        "NPC Name": "Clint",
+        "name": "Clint",
         "Birthday": "Winter 26",
         "Loves": [
             {
@@ -9712,7 +9712,7 @@
         ]
     },
     {
-        "NPC Name": "Gus",
+        "name": "Gus",
         "Birthday": "Summer 8",
         "Loves": [
             {
@@ -10082,7 +10082,7 @@
         ]
     },
     {
-        "NPC Name": "Marnie",
+        "name": "Marnie",
         "Birthday": "Fall 18",
         "Loves": [
             {
@@ -10448,7 +10448,7 @@
         ]
     },
     {
-        "NPC Name": "Lewis",
+        "name": "Lewis",
         "Birthday": "Spring 7",
         "Loves": [
             {
@@ -10810,7 +10810,7 @@
         ]
     },
     {
-        "NPC Name": "Dwarf",
+        "name": "Dwarf",
         "Birthday": "Summer 22",
         "Loves": [
             {
@@ -11192,7 +11192,7 @@
         ]
     },
     {
-        "NPC Name": "Sandy",
+        "name": "Sandy",
         "Birthday": "Fall 15",
         "Loves": [
             {
@@ -11554,7 +11554,7 @@
         ]
     },
     {
-        "NPC Name": "Wizard",
+        "name": "Wizard",
         "Birthday": "Winter 17",
         "Loves": [
             {
@@ -11916,7 +11916,7 @@
         ]
     },
     {
-        "NPC Name": "Krobus",
+        "name": "Krobus",
         "Birthday": "Winter 1",
         "Loves": [
             {
