@@ -1,0 +1,110 @@
+{
+    "Universal Likes": [
+        {
+            "name": "Beer",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Beer.png"
+        },
+        {
+            "name": "Wine",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Wine.png"
+        },
+        {
+            "name": "Coffee",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Coffee.png"
+        },
+        {
+            "name": "Green Tea",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Green_Tea.png"
+        },
+        {
+            "name": "Juice",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Juice.png"
+        },
+        {
+            "name": "Honey",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Honey.png"
+        },
+        {
+            "name": "Cheese",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Cheese.png"
+        },
+        {
+            "name": "Goat Cheese",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Goat_Cheese.png"
+        },
+        {
+            "name": "Cloth",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Cloth.png"
+        },
+        {
+            "name": "Mayonnaise",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Mayonnaise.png"
+        },
+        {
+            "name": "Dinosaur Mayonnaise",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Dinosaur_Mayonnaise.png"
+        },
+        {
+            "name": "Truffle Oil",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Truffle_Oil.png"
+        },
+        {
+            "name": "Pickles",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Pickles.png"
+        },
+        {
+            "name": "Jelly",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Jelly.png"
+        },
+        {
+            "name": "Maple Syrup",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Maple_Syrup.png"
+        },
+        {
+            "name": "Pale Ale",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Pale_Ale.png"
+        },
+        {
+            "name": "Mead",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Mead.png"
+        },
+        {
+            "name": "Oil",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Oil.png"
+        },
+        {
+            "name": "Tea Leaves",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Tea_Leaves.png"
+        }
+    ],
+    "Universal Hates": [
+        {
+            "name": "Poppy",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Poppy.png"
+        },
+        {
+            "name": "Quartz",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Quartz.png"
+        },
+        {
+            "name": "Salmonberry",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Salmonberry.png"
+        },
+        {
+            "name": "Spring Onion",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Spring_Onion.png"
+        },
+        {
+            "name": "Wild Horseradish",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Wild_Horseradish.png"
+        },
+        {
+            "name": "Sea Cucumber",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Sea_Cucumber.png"
+        },
+        {
+            "name": "Snail",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Snail.png"
+        }
+    ]
+}
