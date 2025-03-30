@@ -8,6 +8,8 @@
 	<!-- css files -->
 	<link href="style.css" rel="stylesheet">
 
+	<script defer src="script.js"></script>
+
 	<!-- Fonts -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,16 +24,20 @@
         <p>Select an NPC to see their gift preferences.</p>
     </section>
 
+	   <!-- NPC Selection Dropdown -->
+	   <select id="npcSelect">
+        <option value="" disabled selected>Loading NPCs...</option>
+    </select>
 
-	  <!-- NPC Selection Dropdown -->
-	  <div class="npc-container">
-        <label for="npcSelect">Select an NPC:</label>
-        <select id="npcSelect">
-            <option value="" disabled selected>Choose a character</option>
-            <option value="Abigail">Abigail</option>
-            <option value="Haley">Haley</option>
-            <option value="Sebastian">Sebastian</option>
-        </select>
-    </div>
+	    <!-- NPC Gift Display Section -->
+		<div id="npcDisplay" class="hidden">
+			<h2 id="npcName"></h2>
+			<!-- not sure about this -->
+			<img id="npcImage" src="" alt="NPC Image"> 
+			<p id="npcBirthday"></p>
+			<div id="giftCategories"></div>
+		</div>
+	
+
 	
 </body>

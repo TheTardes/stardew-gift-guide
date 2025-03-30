@@ -26,12 +26,44 @@ label {
     font-weight: bold;
 }
 
-select {
+
+
+/* Search & Dropdown */
+.search-container {
+    margin: 20px;
+}
+
+input, select {
     padding: 10px;
-    margin-top: 10px;
+    margin: 10px;
     font-size: 16px;
     border-radius: 5px;
     border: 2px solid #6a4c93;
     background-color: white;
     cursor: pointer;
+}
+
+/* NPC Display */
+.npc-display {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: white;
+    border: 2px solid #6a4c93;
+    border-radius: 8px;
+    display: inline-block;
+    min-width: 250px;
+    font-size: 18px;
+}
+
+/* Hide elements initially */
+.hidden {
+    display: none;
+}
+
+/* NPC Image */
+#npcImage {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
 }
