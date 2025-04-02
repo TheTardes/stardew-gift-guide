@@ -32,7 +32,7 @@ const displayGifts = (npcSelect) => {
     selectedNPC.Loves.forEach(lovedGift => {
         item = item + `<li><span>${lovedGift.name}</span><img src="${lovedGift.image}"></img></li>`
     })
-    item = item + '</ul></section><section><h3>Liked Gifts</h3><ul>'
+    item = item + '</ul></section><section class="gift-section-container"><h3>Liked Gifts</h3><ul>'
 
     selectedNPC.Likes.forEach(likedGift => {
         item = item + `<li><span>${likedGift.name}</span><img src="${likedGift.image}"></img></li>`
@@ -55,7 +55,7 @@ const displayGifts = (npcSelect) => {
     item = item + '</ul></section>'
 
 
-    npcDisplay.insertAdjacentHTML('beforeend', item)
+    npcDisplay.innerHTML = item;
 }
 
 

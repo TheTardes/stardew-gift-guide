@@ -3,21 +3,26 @@ body {
     text-align: center;
     background-color: #f9f9f9;
     color: #333;
-    margin: 120px;
+    margin-inline: 20px;
+    margin-block: 40px;
 }
 
 h1 {
     color: #6a4c93;
-	font-size: 60px;
+    font-size: 60px;
 }
 
 h2 {
-	margin-top: 60px;
-	font-size: 40px;
+    margin-top: 40px;
+    font-size: 40px;
+    text-align: center;
 }
 
-h3{
-    font-size: 32px;
+h3 {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 24px;
+    margin-top: 60px;
 }
 
 /* NPC Selector */
@@ -30,9 +35,8 @@ label {
     font-weight: bold;
 }
 
-
-
-input, select {
+input,
+select {
     padding: 10px;
     margin: 10px;
     font-size: 16px;
@@ -42,27 +46,72 @@ input, select {
     cursor: pointer;
 }
 
-/* NPC Display */
-.npc-display {
-    margin-top: 20px;
-    padding: 15px;
-    background-color: white;
+/* Dropdown */
+#npc-select {
+    padding: 10px;
+    font-size: 16px;
+    margin: 20px 0;
     border: 2px solid #6a4c93;
     border-radius: 8px;
-    display: inline-block;
-    min-width: 250px;
-    font-size: 18px;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+/* NPC display container */
+#npc-display {
+    background: #fff;
+    padding: 16px;
+    border: 2px solid #d3c2b9;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* NPC image */
+#npc-display img {
+    max-width: 80px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+/* Gift list styles */
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+}
+
+li {
+    background-color: #fff7ea;
+    border: 1px solid #e3d5c4;
+    border-radius: 10px;
+    padding: 12px;
+    width: 140px;
+    text-align: center;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease;
+}
+
+li:hover {
+    transform: scale(1.05);
+}
+
+li span {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #444;
+}
+
+li img {
+    width: 40px;
+    height: 40px;
+    border-radius: 6px;
 }
 
 /* Hide elements initially */
 .hidden {
     display: none;
-}
-
-/* NPC Image */
-#npcImage {
-    width: 150px;
-    height: 150px;
-    border-radius: 10px;
-    margin-top: 10px;
 }
