@@ -5,7 +5,7 @@ fetch('data.json')
     .then(response => response.json())
     .then(data => {
         // renderItems(data)
-        list=data;
+        list = data;
         populateSelect(data)
     })
 
@@ -20,20 +20,40 @@ const populateSelect = (npcList) => {
 
 const displayGifts = (npcSelect) => {
     console.log(npcSelect)
-    const selectedNPC = list.find ((item)=>item.name===npcSelect.value)
+    const selectedNPC = list.find((item) => item.name === npcSelect.value)
     console.log(selectedNPC)
 
-    const npcDisplay =document.getElementById('npc-display')
+    const npcDisplay = document.getElementById('npc-display')
 
-    let item = `<h2>${selectedNPC.name}</h2><p>${selectedNPC.Birthday}</p><ul>`
+    let item = `<h2>${selectedNPC.name}</h2><p>${selectedNPC.Birthday}</p>
+    <section><h3>Loved gifts</h3><ul>`
     selectedNPC.Loves.forEach(lovedGift => {
-        item = item + `<li><span>${lovedGift.name}</span><img src"${lovedGift.image}"></img></li>`
+        item = item + `<li><span>${lovedGift.name}</span><img src="${lovedGift.image}"></img></li>`
     })
-    item = item + '</ul>'
-    
+    item = item + '</ul></section><section><h3>Liked Gifts</h3><ul>'
+    selectedNPC.Likes.forEach(likedGift => {
+        item = item + `<li><span>${likedGift.name}</span><img src="${likedGift.image}"></img></li>`
+    })
+    item = item + '</ul></section><h3>Neutral Gifts</h3><ul>'
+    selectedNPC.Neutral.forEach(neutralGift => {
+        item = item + `<li><span>${neutralGift.name}</span><img src="${neutralGift.image}"></img></li>`
+    })
+    item = item + '</ul></section><h3>Disliked Gifts</h3><ul>'
+    selectedNPC.Dislikes.forEach(dislikedGift => {
+        item = item + `<li><span>${dislikedGift.name}</span><img src="${dislikedGift.image}"></img></li>`
+    })
+     item = item + '</ul></section><h3>Hated Gifts</h3><ul>'
+     selectedNPC.Hates.forEach(hatedGift => {
+        item = item + `<li><span>${hatedGift.name}</span><img src="${hatedGift.image}"></img></li>`
+    })
+    item = item + '</ul></section>'
+
+
     npcDisplay.insertAdjacentHTML('beforeend', item)
 }
 
+
+// gift - NPC; Univerlikes - like  - input, filter
 
 // // Function to render your items
 // const renderItems = (data) => {
