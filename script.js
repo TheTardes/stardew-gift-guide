@@ -16,6 +16,7 @@ const populateSelect = (npcList) => {
         const item = `<option value="${npc.name}">${npc.name}</option>`
         npcSelect.insertAdjacentHTML('beforeend', item)
     });
+
 }
 
 const displayGifts = (npcSelect) => {
@@ -25,25 +26,30 @@ const displayGifts = (npcSelect) => {
 
     const npcDisplay = document.getElementById('npc-display')
 
-    let item = `<h2>${selectedNPC.name}</h2><p>${selectedNPC.Birthday}</p>
+    let item = `<h2>${selectedNPC.name}</h2><img src="${selectedNPC.image}"></img><p>${selectedNPC.Birthday}</p>
     <section><h3>Loved gifts</h3><ul>`
+
     selectedNPC.Loves.forEach(lovedGift => {
         item = item + `<li><span>${lovedGift.name}</span><img src="${lovedGift.image}"></img></li>`
     })
     item = item + '</ul></section><section><h3>Liked Gifts</h3><ul>'
+
     selectedNPC.Likes.forEach(likedGift => {
         item = item + `<li><span>${likedGift.name}</span><img src="${likedGift.image}"></img></li>`
     })
     item = item + '</ul></section><h3>Neutral Gifts</h3><ul>'
+
     selectedNPC.Neutral.forEach(neutralGift => {
         item = item + `<li><span>${neutralGift.name}</span><img src="${neutralGift.image}"></img></li>`
     })
     item = item + '</ul></section><h3>Disliked Gifts</h3><ul>'
+
     selectedNPC.Dislikes.forEach(dislikedGift => {
         item = item + `<li><span>${dislikedGift.name}</span><img src="${dislikedGift.image}"></img></li>`
     })
-     item = item + '</ul></section><h3>Hated Gifts</h3><ul>'
-     selectedNPC.Hates.forEach(hatedGift => {
+    item = item + '</ul></section><h3>Hated Gifts</h3><ul>'
+
+    selectedNPC.Hates.forEach(hatedGift => {
         item = item + `<li><span>${hatedGift.name}</span><img src="${hatedGift.image}"></img></li>`
     })
     item = item + '</ul></section>'
