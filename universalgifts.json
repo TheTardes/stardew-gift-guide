@@ -106,5 +106,38 @@
             "name": "Snail",
             "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Snail.png"
         }
+    ],
+
+    "Universal Loves": [
+        {
+            "name": "Golden Pumpkin",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/Golden_Pumpkin.png"
+        },
+        {
+            "name": "Magic Rock Candy",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/Magic_Rock_Candy.png"
+        },
+        {
+            "name": "Pearl",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/Pearl.png"
+        },
+        {
+            "name": "Sweet Gem Berry",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/Sweet_Gem_Berry.png"
+        },
+        {
+            "name": "Tea Set",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/Tea_Set.png"
+        },
+        {
+            "name": "Rabbit's Foot",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/Rabbit%27s_Foot.png",
+            "note": "Exception: Penny hates this."
+        },
+        {
+            "name": "Prismatic Shard",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/Prismatic_Shard.png",
+            "note": "Exception: Haley hates this."
+        }
     ]
 }

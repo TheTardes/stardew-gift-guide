@@ -39,10 +39,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -240,7 +236,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -350,10 +345,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/5/58/Void_Egg.png"
             },
             {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
-            },
-            {
                 "name": "Poppy",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
             },
@@ -402,16 +393,37 @@
             {
                 "name": "Sunflower",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Sunflower.png"
+            },
+            {
+                "name": "Golden Pumpkin",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/Golden_Pumpkin.png"
+            },
+            {
+                "name": "Magic Rock Candy",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/Magic_Rock_Candy.png"
+            },
+            {
+                "name": "Pearl",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/Pearl.png"
+            },
+            {
+                "name": "Sweet Gem Berry",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/Sweet_Gem_Berry.png"
+            },
+            {
+                "name": "Tea Set",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/Tea_Set.png"
+            },
+            {
+                "name": "Rabbit's Foot",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/Rabbit%27s_Foot.png",
+                "note": "Exception: Penny hates this."
             }
         ],
         "Likes": [
             {
                 "name": "Daffodil",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Daffodil.png"
-            },
-            {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
             },
             {
                 "name": "Beer",
@@ -611,7 +623,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -721,10 +732,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
             },
             {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
-            },
-            {
                 "name": "Poppy",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
             },
@@ -779,10 +786,6 @@
             {
                 "name": "Quartz",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
-            },
-            {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
             },
             {
                 "name": "Beer",
@@ -982,7 +985,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -1088,10 +1090,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Eggplant_Parmesan.png"
             },
             {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
-            },
-            {
                 "name": "Poppy",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
             },
@@ -1154,10 +1152,6 @@
             {
                 "name": "Cloth",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/5/51/Cloth.png"
-            },
-            {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
             },
             {
                 "name": "Beer",
@@ -1357,7 +1351,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -1459,10 +1452,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Amaranth.png"
             },
             {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
-            },
-            {
                 "name": "Poppy",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
             },
@@ -1531,10 +1520,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/63/Driftwood.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -1732,7 +1717,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -1844,10 +1828,6 @@
             {
                 "name": "Wine",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/69/Wine.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -1906,10 +1886,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Joja_Cola.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -2107,7 +2083,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -2207,10 +2182,6 @@
             {
                 "name": "Mayonnaise",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Mayonnaise.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -2281,24 +2252,37 @@
             {
                 "name": "Tom Kha Soup",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Tom_Kha_Soup.png"
+            },
+            {
+                "name": "Golden Pumpkin",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/Golden_Pumpkin.png"
+            },
+            {
+                "name": "Magic Rock Candy",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/Magic_Rock_Candy.png"
+            },
+            {
+                "name": "Pearl",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/Pearl.png"
+            },
+            {
+                "name": "Sweet Gem Berry",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/Sweet_Gem_Berry.png"
+            },
+            {
+                "name": "Tea Set",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/Tea_Set.png"
+            },
+            {
+                "name": "Prismatic Shard",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/Prismatic_Shard.png",
+                "note": "Exception: Haley hates this."
             }
         ],
         "Likes": [
             {
                 "name": "Sandfish",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Sandfish.png"
-            },
-            {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
-                "name": "Beer",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
-            },
-            {
-                "name": "Wine",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/6/69/Wine.png"
             },
             {
                 "name": "Coffee",
@@ -2323,10 +2307,6 @@
             {
                 "name": "Goat Cheese",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/c/c8/Goat_Cheese.png"
-            },
-            {
-                "name": "Cloth",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/5/51/Cloth.png"
             },
             {
                 "name": "Mayonnaise",
@@ -2490,7 +2470,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -2604,10 +2583,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/69/Wine.png"
             },
             {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
-            },
-            {
                 "name": "Poppy",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
             },
@@ -2686,10 +2661,6 @@
             {
                 "name": "Copper Bar",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Copper_Bar.png"
-            },
-            {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
             },
             {
                 "name": "Beer",
@@ -2889,7 +2860,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -3003,10 +2973,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Truffle.png"
             },
             {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
-            },
-            {
                 "name": "Poppy",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
             },
@@ -3065,10 +3031,6 @@
             {
                 "name": "Daffodil",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Daffodil.png"
-            },
-            {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
             },
             {
                 "name": "Beer",
@@ -3268,7 +3230,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -3378,10 +3339,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Truffle.png"
             },
             {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
-            },
-            {
                 "name": "Poppy",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
             },
@@ -3456,10 +3413,6 @@
             {
                 "name": "Quartz",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
-            },
-            {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
             },
             {
                 "name": "Beer",
@@ -3659,7 +3612,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -3773,10 +3725,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Sashimi.png"
             },
             {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
-            },
-            {
                 "name": "Poppy",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
             },
@@ -3823,10 +3771,6 @@
             {
                 "name": "Egg",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Egg.png"
-            },
-            {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
             },
             {
                 "name": "Beer",
@@ -4026,7 +3970,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -4126,10 +4069,6 @@
             {
                 "name": "Quartz",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -4188,10 +4127,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Egg.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -4389,7 +4324,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -4495,10 +4429,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
             },
             {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
-            },
-            {
                 "name": "Poppy",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
             },
@@ -4549,10 +4479,6 @@
             {
                 "name": "Cookies",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Cookies.png"
-            },
-            {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
             },
             {
                 "name": "Beer",
@@ -4752,7 +4678,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -4852,10 +4777,6 @@
             {
                 "name": "Garlic",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Garlic.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -4918,10 +4839,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Ginger_Ale.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -5119,7 +5036,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -5221,10 +5137,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Garlic.png"
             },
             {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
-            },
-            {
                 "name": "Poppy",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
             },
@@ -5281,10 +5193,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Dandelion.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -5482,7 +5390,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -5582,10 +5489,6 @@
             {
                 "name": "Spice Berry",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Spice_Berry.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -5632,10 +5535,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Dandelion.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -5833,7 +5732,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -5933,10 +5831,6 @@
             {
                 "name": "Spice Berry",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Spice_Berry.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -6003,10 +5897,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Pancakes.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -6204,7 +6094,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -6304,10 +6193,6 @@
             {
                 "name": "Spice Berry",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Spice_Berry.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -6358,10 +6243,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Pizza.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -6559,7 +6440,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -6659,10 +6539,6 @@
             {
                 "name": "Spice Berry",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Spice_Berry.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -6721,10 +6597,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Strawberry.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -6922,7 +6794,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -7022,10 +6893,6 @@
             {
                 "name": "Mead",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/8/84/Mead.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -7080,10 +6947,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Hardwood.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -7281,7 +7144,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -7381,10 +7243,6 @@
             {
                 "name": "Mead",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/8/84/Mead.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -7451,10 +7309,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -7652,7 +7506,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -7752,10 +7605,6 @@
             {
                 "name": "Mayonnaise",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Mayonnaise.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -7826,10 +7675,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -8027,7 +7872,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -8127,10 +7971,6 @@
             {
                 "name": "Coffee",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Coffee.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -8193,10 +8033,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Coconut.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -8394,7 +8230,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -8496,10 +8331,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
             {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
-            },
-            {
                 "name": "Poppy",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
             },
@@ -8546,10 +8377,6 @@
             {
                 "name": "Leek",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Leek.png"
-            },
-            {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
             },
             {
                 "name": "Beer",
@@ -8749,7 +8576,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -8851,10 +8677,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Garlic.png"
             },
             {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
-            },
-            {
                 "name": "Poppy",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
             },
@@ -8913,10 +8735,6 @@
             {
                 "name": "Dandelion",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Dandelion.png"
-            },
-            {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
             },
             {
                 "name": "Beer",
@@ -9116,7 +8934,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -9218,10 +9035,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Tomato.png"
             },
             {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
-            },
-            {
                 "name": "Poppy",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
             },
@@ -9298,10 +9111,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Topaz.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -9499,7 +9308,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -9599,10 +9407,6 @@
             {
                 "name": "Garlic",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Garlic.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -9665,10 +9469,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Fish_Stew.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -9866,7 +9666,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -9966,10 +9765,6 @@
             {
                 "name": "Garlic",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Garlic.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -10028,10 +9823,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -10229,7 +10020,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -10331,10 +10121,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Garlic.png"
             },
             {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
-            },
-            {
                 "name": "Poppy",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
             },
@@ -10385,10 +10171,6 @@
             {
                 "name": "Hot Pepper",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Hot_Pepper.png"
-            },
-            {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
             },
             {
                 "name": "Beer",
@@ -10588,7 +10370,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -10688,10 +10469,6 @@
             {
                 "name": "Spice Berry",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Spice_Berry.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -10766,10 +10543,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Topaz.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -10967,7 +10740,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -11069,10 +10841,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Spice_Berry.png"
             },
             {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
-            },
-            {
                 "name": "Poppy",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
             },
@@ -11123,10 +10891,6 @@
             {
                 "name": "Sweet Pea",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Sweet_Pea.png"
-            },
-            {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
             },
             {
                 "name": "Beer",
@@ -11326,7 +11090,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -11426,10 +11189,6 @@
             {
                 "name": "Void Egg",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/5/58/Void_Egg.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -11484,10 +11243,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/5/58/Void_Egg.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -11685,7 +11440,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -11785,10 +11539,6 @@
             {
                 "name": "Void Egg",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/5/58/Void_Egg.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
@@ -11839,10 +11589,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Coffee.png"
             },
             {
-                "name": "Universal Likes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Likes.png"
-            },
-            {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
@@ -12040,7 +11786,6 @@
                 "name": "Aerinite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png"
             },
-          
             {
                 "name": "Malachite",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png"
@@ -12140,10 +11885,6 @@
             {
                 "name": "Void Egg",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/5/58/Void_Egg.png"
-            },
-            {
-                "name": "Universal Hates",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Universal_Hates.png"
             },
             {
                 "name": "Poppy",
