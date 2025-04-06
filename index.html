@@ -17,25 +17,54 @@
 </head>
 
 <body>
-	<h1>🌻 Stardew Valley Gift Guide</h1>
+
+	<nav>
+		<button class="link-button">
+			About Game
+			<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" fill="none">
+				<path d="M7.66659 3H6.33325V4.33333H7.66659V3Z" fill="white" />
+				<path d="M7.66659 5.66666H6.33325V11H7.66659V5.66666Z" fill="white" />
+				<path d="M12.9999 2.33333V1.66667H12.3333V0.999999H11.6666V0.333332H2.33325V0.999999H1.66659V1.66667H0.999919V2.33333H0.333252V11.6667H0.999919V12.3333H1.66659V13H2.33325V13.6667H11.6666V13H12.3333V12.3333H12.9999V11.6667H13.6666V2.33333H12.9999ZM12.3333 10.3333H11.6666V11H10.9999V11.6667H10.3333V12.3333H3.66659V11.6667H2.99992V11H2.33325V10.3333H1.66659V3.66667H2.33325V3H2.99992V2.33333H3.66659V1.66667H10.3333V2.33333H10.9999V3H11.6666V3.66667H12.3333V10.3333Z" fill="white" />
+			</svg>
+		</button>
+		<button class="link-button">
+			Use Guide
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="18" viewBox="0 0 22 18" fill="none">
+				<path d="M13 6H9V7H8V11H9V12H13V11H14V7H13V6ZM12 10H10V8H12V10Z" fill="white" />
+				<path d="M20 6V4H19V3H18V2H16V0H6V2H4V3H3V4H2V6H0V12H2V14H3V15H4V16H6V18H16V16H18V15H19V14H20V12H22V6H20ZM20 10H18V12H17V13H16V14H14V16H8V14H6V13H5V12H4V10H2V8H4V7V6H5V5H6V4H8V2H14V4H16V5H17V6H18V8H20V10Z" fill="black" />
+			</svg>
+		</button>
+	</nav>
+
+	<h1>Stardew Valley Gift Guide</h1>
 
 	<section>
-		<h2>NPC Gift Preferences</h2>
-		<p>Select an NPC to see their gift preferences.</p>
+		<h3 class="description">Select an NPC to see their gift preferences</h3>
 	</section>
 
-	<!-- NPC Selection Dropdown -->
-	<select onchange="displayGifts(this)" id="npc-select">
-		<option value="" disabled selected>Find</option>
-	</select>
+	<section class="find-section">
+		<!-- NPC Selection Dropdown -->
+		<select onchange="displayGifts(this)" id="npc-select" class="find-buttons">
+			<option value="" disabled selected>Select</option>
+		</select>
 
-	<!-- NPC Search -->
-	<input type="text" id="npc-search" placeholder="Search for an NPC..." />
+		<!-- NPC Search -->
+		<input type="text" id="npc-search" class="find-buttons" placeholder="Search NPC..." />
 
-	<!-- Buttons to open modal -->
-	<button onclick="showUniversalGifts('Universal Loves')"> Universal Loves</button>
-	<button onclick="showUniversalGifts('Universal Likes')"> Universal Likes</button>
-	<button onclick="showUniversalGifts('Universal Hates')"> Universal Hates</button>
+	</section>
+
+	<section class="universalgifts-section">
+		<!-- Buttons to open modal -->
+		<button class="universalgifts-buttons" onclick="showUniversalGifts('Universal Loves')">
+			<img src="Assets/love.png" alt="Loves" />
+			Universal Loves</button>
+		<button class="universalgifts-buttons" onclick="showUniversalGifts('Universal Likes')">
+			<img src="Assets/like.png" alt="Loves" />
+			Universal Likes</button>
+		<button class="universalgifts-buttons" onclick="showUniversalGifts('Universal Hates')">
+			<img src="Assets/hate.png" alt="Loves" />
+			Universal Hates</button>
+	</section>
 
 	<!-- Modal -->
 	<div id="universalModal" class="modal hidden">
@@ -47,11 +76,11 @@
 	</div>
 
 	<!-- NPC Grid Container -->
-	<div id="npc-list" class="npc-grid"></div>
+	<section id="npc-list" class="npc-grid"></section>
 
 	<!-- NPC Gift Display Section -->
-	<div id="npc-display">
-	</div>
+	<section id="npc-display">
+	</section>
 
 
 
