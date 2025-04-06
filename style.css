@@ -36,9 +36,10 @@ h1 {
 .description {
   color: var(--yellow-dark);
   text-align: center;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 400;
-  color: var(--white);
+  color: var(--yellow);
+  margin-top: 32px;
 }
 
 .link-button {
@@ -110,8 +111,8 @@ h1 {
 
 
 h2 {
-  margin-top: 40px;
-  font-size: 40px;
+  margin-top: 8px;
+  font-size: 30px;
   text-align: center;
 }
 
@@ -119,32 +120,94 @@ h3 {
   font-size: 24px;
   text-align: center;
   margin-bottom: 24px;
-  margin-top: 60px;
+
+  color: var(--yellow);
+
 }
-
-
-
-
-
-
-
 
 
 
 /* NPC display container */
-#npc-display {
-  background: #fff;
-  padding: 16px;
-  border: 2px solid #d3c2b9;
+
+.tags {
+  padding: 12px 20px;
+  border-radius: 6px;
+  border: 1px solid var(--purple);
+  color: var(--purple);
+
+  cursor: pointer;
+  transition: all 0.2s ease;
+
+  &:hover {
+    background-color: var(--purple);
+    color: var(--button-color);
+    transform: scale(1.05); /* slight zoom */
+  }
+}
+
+.npc-info {
   border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border: 2px solid var(--yellow-dark);
+  padding: 24px 12px;
+  margin-top: 12px;
+
+  &>div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 8px;
+    flex-wrap: wrap;
+
+    margin-top: 24px;
+  }
+}
+
+.npc-frame {
+  margin: auto;
+  width: 200px;
+  padding: 24px;
+  border-radius: 16px;
+  background: var(--yellow);
+
+  & img {
+    max-width: 100px;
+  }
+}
+
+.birthday {
+  border-radius: 6px;
+  background: var(--purple);
+  padding: 8px 10px;
+  width: 200px;
+  margin: auto;
+  margin-top: 12px;
+  text-align: center;
+
+  & img {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    margin-right: 6px;
+  }
+}
+
+.gift-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  padding-inline: 16px;
+  padding-block: 32px;
+  margin-top: 32px;
+
+  border-radius: 12px;
+  border: 2px solid var(--yellow-dark);
+  background: var(--button-color);
 }
 
 /* NPC image */
 #npc-display img {
-  max-width: 80px;
-  border-radius: 10px;
-  margin-bottom: 10px;
+  max-width: 100px;
 }
 
 
@@ -158,7 +221,7 @@ ul {
 }
 
 li {
-  background-color: #fff7ea;
+  background-color: var(--yellow);
   border: 1px solid #e3d5c4;
   border-radius: 10px;
   padding: 12px;
@@ -176,7 +239,6 @@ li span {
   display: block;
   font-weight: bold;
   margin-bottom: 5px;
-  color: #444;
 }
 
 li img {
@@ -185,7 +247,8 @@ li img {
   border-radius: 6px;
 }
 
-/* Hide elements initially */
+
+/* Hide elements */
 .hidden {
   display: none;
 }
@@ -261,7 +324,7 @@ li img {
 
   border-radius: 12px;
   border: 2px solid var(--yellow-dark);
-  background: var(--brown);
+  background: var(--button-color);
 }
 
 .npc-card {
