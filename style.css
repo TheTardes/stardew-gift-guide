@@ -8,6 +8,26 @@
   --yellow: #FCFCE4;
 }
 
+/* .test{
+  position: relative;
+
+  & svg {
+    position: absolute;
+    right: 20px;
+  }
+} */
+
+/* .modal{
+  max-height: 90vh;
+  overflow-y: auto;
+} */
+
+input {
+  &:focus {
+    background-color: #B66C3F;
+  }
+}
+
 body {
   font-family: "Pixelify Sans", sans-serif;
   font-size: 16px;
@@ -141,7 +161,8 @@ h3 {
   &:hover {
     background-color: var(--purple);
     color: var(--button-color);
-    transform: scale(1.05); /* slight zoom */
+    transform: scale(1.05);
+    /* slight zoom */
   }
 }
 
@@ -279,6 +300,9 @@ li img {
   width: 90%;
   text-align: center;
   position: relative;
+
+  max-height: 90vh;
+  overflow-y: auto;
 }
 
 .close-btn {

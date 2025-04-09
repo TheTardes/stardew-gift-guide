@@ -21,8 +21,7 @@ function showNPCList(npcs) {
         card.className = 'npc-card';
         card.innerHTML = `
             <img src="${npc.image}" alt="${npc.name}">
-            <div><strong>${npc.name}</strong></div>
-          `;
+            <div><strong>${npc.name}</strong></div>`;
         card.addEventListener('click', () => {
             container.classList.add('hidden');        // Hide NPC grid
             npcDisplay.classList.remove('hidden');    // Show gift view
@@ -156,6 +155,8 @@ function closeModal() {
 function goBack() {
     document.getElementById('npc-display').classList.add('hidden');
     document.getElementById('npc-list').classList.remove('hidden');
+    npcSearch.value=''
+    npcSelect.value=''
 }
 
 
