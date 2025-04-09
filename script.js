@@ -52,7 +52,7 @@ const displayGifts = (npcSelect) => {
 
     const npcDisplay = document.getElementById('npc-display')
 
-    let item = `<button class="link-button" onclick="goBack()">NPC List</button>
+    let item = `<button class="link-button" onclick="goBack()">  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M10.6667 1.33331V1.99998H9.33333V3.33331H8V4.66665H6.66667V5.99998H5.33333V6.66665H4.66667V7.33331H4V8.66665H4.66667V9.33331H5.33333V9.99998H6.66667V11.3333H8V12.6666H8.66667H9.33333V13.3333V14H10.6667V14.6666H12V12.6666H10.6667V11.3333H9.33333V9.99998H8V8.66665H6.66667V7.33331H8V5.99998H9.33333V4.66665H10.6667V3.33331H12V1.33331H10.6667Z" fill="white"/></svg>  NPC List</button>
     <section class="npc-info">
         <section class="npc-frame">
             <img src="${selectedNPC.image}"></img>
@@ -147,16 +147,13 @@ function showUniversalGifts(category) {
 
 // interaction functions
 
-function closeModal() {
-    document.getElementById("universalModal").classList.add("hidden");
-}
 
 
 function goBack() {
     document.getElementById('npc-display').classList.add('hidden');
     document.getElementById('npc-list').classList.remove('hidden');
-    npcSearch.value=''
-    npcSelect.value=''
+    npcSearch.value = ''
+    npcSelect.value = ''
 }
 
 
@@ -166,6 +163,15 @@ function scrollToCategory(id) {
         el.scrollIntoView({ behavior: 'smooth' });
     }
 }
+
+function openModal(id) {
+    document.getElementById(id).classList.remove('hidden');
+  }
+  
+  function closeModal(id) {
+    document.getElementById(id).classList.add('hidden');
+  }
+  
 
 
 
