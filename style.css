@@ -17,10 +17,6 @@
   }
 } */
 
-/* .modal{
-  max-height: 90vh;
-  overflow-y: auto;
-} */
 
 input {
   &:focus {
@@ -312,6 +308,7 @@ li img {
   justify-content: center;
   align-items: center;
   z-index: 999;
+  
 }
 
 
@@ -325,6 +322,8 @@ li img {
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
   position: relative;
   text-align: center;
+  max-height: 90vh;
+  overflow-y: auto;
 
   &>h3 {
     color: var(--button-color);
