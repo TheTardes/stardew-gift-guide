@@ -3,9 +3,21 @@
   --purple: #FBE4FC;
   --yellow-dark: #F4D497;
   --white: #F6EFFF;
+  --red-dark: #7f3636;
   --button-color: #144683;
+  --dark-green: #0f622f;
   --brown: #B66C3F;
   --yellow: #FCFCE4;
+}
+
+.shadow-effect-green {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(74, 49, 0) 0px 0px 0px 3px;
+  box-shadow: inset 0 0 10px #013110;
+}
+
+.shadow-effect-cards {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(74, 49, 0) 0px 0px 0px 3px;
+  box-shadow: inset 0 0 7px #371c01;
 }
 
 /* .test{
@@ -17,19 +29,40 @@
   }
 } */
 
-
-input {
+/* input {
   &:focus {
     background-color: #B66C3F;
   }
+} */
+
+/* .sidebar {
+  position: sticky;
+  width: 100%;
+  min-height: auto;
+  border-bottom: 2px solid var(--brown);
+  padding: 16px;
+  background: var(--dark-green);
+  color: var(--white);
+}
+
+.dashboard {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  max-height: none;
+  overflow-y: visible;
+  padding: 16px;
+} */
+
+.sidebar-web{
+  display: none;
 }
 
 body {
   font-family: "Pixelify Sans", sans-serif;
   font-size: 16px;
-  text-align: center;
-  margin-inline: 20px;
-  margin-block: 30px;
 
   background-image: url(Assets/bg.png);
   background-size: cover;
@@ -37,10 +70,14 @@ body {
   background-position: center;
 }
 
-nav {
+.nav-style {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: var(--button-color);
+  border-bottom: 3px solid var(--yellow-dark);
+  padding-inline: 20px;
+  top: 0;
 }
 
 h1 {
@@ -51,11 +88,9 @@ h1 {
 
 .description {
   color: var(--yellow-dark);
-  text-align: center;
   font-size: 20px;
   font-weight: 400;
   color: var(--yellow);
-  margin-top: 32px;
 }
 
 .link-button {
@@ -86,8 +121,6 @@ h1 {
   padding: 6px 16px;
   width: 100%;
   align-items: center;
-
-
   color: var(--purple);
   border-radius: 6px;
   border: 0.5px solid var(--purple);
@@ -96,29 +129,32 @@ h1 {
   cursor: pointer;
 }
 
-
+/* web */
 .universalgifts-buttons {
+  font-size: 18px;
   display: flex;
-  padding: 12px 16px;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
-  gap: 12px;
+  text-align: center;
+  gap: 6px;
+  padding: 16px 20px;
+  justify-content: center;
   cursor: pointer;
+  width: 100%;
 
-  border-radius: 12px;
-  border: 1px solid var(--purple);
-  color: var(--white);
+  border-radius: 8px;
+  color: var(--red-dark);
+  border: 6px solid var(--brown);
+  background-color: #ecaf71;
 
   &:hover {
-    background-color: var(--purple);
-    color: var(--button-color);
+    background-color: var(--yellow-dark);
     transform: scale(1.05);
   }
 
   & img {
-    width: 24px;
-    height: 24px;
+    width: 32px;
+    height: 32px;
   }
 }
 
@@ -133,11 +169,6 @@ h1 {
 
   margin-block: 32px;
 }
-
-
-
-
-
 
 
 h2 {
@@ -235,17 +266,25 @@ h3 {
   background: var(--button-color);
 }
 
-/* Scroll button style from: https://www.w3schools.com/howto/howto_js_scroll_to_top.asp*/ 
+/* Scroll button style from: https://www.w3schools.com/howto/howto_js_scroll_to_top.asp*/
 #scroll-top {
-  display: none; /* Hidden by default */
-  position: fixed; /* Fixed/sticky position */
-  bottom: 20px; /* Place the button at the bottom of the page */
-  right: 30px; /* Place the button 30px from the right */
-  z-index: 99; /* Make sure it does not overlap */
+  display: none;
+  /* Hidden by default */
+  position: fixed;
+  /* Fixed/sticky position */
+  bottom: 20px;
+  /* Place the button at the bottom of the page */
+  right: 30px;
+  /* Place the button 30px from the right */
+  z-index: 99;
+  /* Make sure it does not overlap */
   background-color: var(--yellow);
-  cursor: pointer; /* Add a mouse pointer on hover */
-  padding: 15px; /* Some padding */
-  border-radius: 10px; /* Rounded corners */
+  cursor: pointer;
+  /* Add a mouse pointer on hover */
+  padding: 15px;
+  /* Some padding */
+  border-radius: 10px;
+  /* Rounded corners */
 
 }
 
@@ -308,7 +347,7 @@ li img {
   justify-content: center;
   align-items: center;
   z-index: 999;
-  
+
 }
 
 
@@ -416,26 +455,108 @@ li img {
 
 @media (min-width:768px) {
 
-  .link-button{
+  .mobile-select{
+    display: none;
+  }
+
+  .universal-mobile{
+    display: none;
+  }
+
+  .nav-style{
+    display: none;
+  }
+
+  .sidebar-web {
+    display: block;
+    position: sticky;
+    width: 230px;
+    min-height: 100vh;
+    padding: 24px;
+    border-right: 6px solid var(--brown);
+    background: var(--dark-green);
+
+  }
+
+  .dashboard {
+    display: flex;
+    min-height: 100vh;
+    align-items: flex-start;
+  }
+
+  .main-content {
+    flex: 1;
+    overflow-y: auto;
+    max-height: 100vh;
+    padding-bottom: 60px;
+  }
+
+  .link-button {
     font-size: 18px;
   }
 
   h1 {
-    font-size: 100px;
+    font-size: 80px;
+    color: #F3CA00;
   }
 
-  .description {
-    font-size: 44px;
+  .h1 {
+    padding: 44px;
+    position: relative;
+
+    &>section {
+      width: 100%;
+      border-radius: 16px;
+      border: 6px solid var(--brown);
+      background: var(--dark-green);
+      text-align: center;
+      padding-block: 32px;
+
+    }
+
+    & .description {
+      font-size: 32px;
+      text-align: center;
+    }
+
+    & #leaf-1 {
+      position: absolute;
+      right: 32px;
+      top: 32px;
+      width: 60px;
+      height: 60px;
+      aspect-ratio: 1/1;
+    }
+
+    & #leaf-2 {
+      position: absolute;
+      left: 32px;
+      top: 32px;
+      width: 60px;
+      height: 60px;
+      aspect-ratio: 1/1;
+    }
+
+    & #junimos {
+      width: 30%;
+    }
+
   }
+
 
   .npc-grid {
-    grid-template-columns: repeat(4, 1fr);
-    gap: 24px;
-    padding: 60px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    align-items: center;
+    gap: 16px;
+    margin: 44px;
+    background: none;
+    border: none;
+    padding: 0;
+  }
 
-    border-radius: 24px;
-    border: 4px solid var(--yellow-dark);
-    margin: 120px;
+  .hidden {
+    display: none;
   }
 
   .npc-card {
@@ -485,11 +606,11 @@ li img {
     padding-inline: 120px;
     padding-block: 100px;
     margin-top: 32px;
-  
+
     border-radius: 24px;
     border: 4px solid var(--yellow-dark);
   }
-  
+
 
 }
 
@@ -500,7 +621,8 @@ li img {
   position: sticky;
   bottom: 12px;
   left: 100%;
-  margin-left: -60px; /* shift it back inside */
+  margin-left: -60px;
+  /* shift it back inside */
   background-color: var(--purple);
   color: white;
   width: 44px;
