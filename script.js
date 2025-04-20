@@ -33,12 +33,14 @@ function showNPCList(npcs) {
 
 
 const populateSelect = (npcList) => {
-    const npcSelect = document.getElementById('npc-select')
+    const npcSelects = document.querySelectorAll('.npc-select')
 
-    npcList.forEach(npc => {
-        const item = `<option value="${npc.name}">${npc.name}</option>`
-        npcSelect.insertAdjacentHTML('beforeend', item)
-    });
+    npcSelects.forEach(npcSelect => {
+        npcList.forEach(npc => {
+          const item = `<option value="${npc.name}">${npc.name}</option>`;
+          npcSelect.insertAdjacentHTML('beforeend', item);
+        });
+      });
 
 }
 
