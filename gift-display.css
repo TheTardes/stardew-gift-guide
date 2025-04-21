@@ -1,0 +1,115 @@
+/* Gift list styles */
+.gift-grid ul {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	justify-content: center;
+	gap: 6px;
+	padding-inline: 12px;
+  }
+  
+  .gift-grid li {
+	border: 2px dashed var(--brown);
+	background-color: var(--yellow);
+	border-radius: 6px;
+	padding: 12px;
+	width: 100%;
+	height: 100px;
+	text-align: center;
+  
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+  
+	&>p {
+	  font-family: var(--xs-font);
+	  line-height: 1.3rem;
+	  margin-top: 8px;
+	  font-size: 14px;
+	}
+  
+	&>img {
+	  width: 32px;
+	  height: 32px;
+	}
+  }
+
+
+  /* gift grid */
+  .gift-grid {
+	display: flex;
+	flex-direction: column;
+	gap: 44px;
+	padding-bottom: 44px;
+	background-color: var(--yellow);
+	border: 6px solid var(--brown);
+	border-radius: 6px;
+	position: relative;
+  }
+  
+  .gift-grid section {
+	scroll-margin-top: 70px;
+  }
+
+  /* insife grift grid */
+  
+  .gift-title {
+	color: var(--brand);
+	background-color: var(--dark-green);
+	border-top: 4px solid var(--brown);
+	border-bottom: 4px solid var(--brown);
+	padding-block: 12px;
+	margin-bottom: 24px;
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(74, 49, 0) 0px 0px 0px 3px;
+	box-shadow: inset 0 0 2px #013110;
+  
+	position: sticky;
+	top: 70;
+  }
+
+  .gift-nav {
+	padding-inline: 12px;
+	gap: 6px;
+	margin-top: 24px;
+	padding-top: 6px;
+	margin-bottom: -6px;
+	position: sticky;
+	top: 0;
+	z-index: 10;
+	display: flex;
+	justify-content: center;
+  }
+
+  /* tags */
+.tags {
+	height: 56px;
+	width: 56px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	border-radius: 6px;
+	border: 4px solid var(--brown);
+	color: var(--red-dark);
+	background-color: var(--brown-light);
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(74, 49, 0) 0px 0px 0px 3px;
+	box-shadow: inset 0 0 7px #371c01;
+  
+	cursor: pointer;
+	transition: all 0.2s ease;
+  
+	&:hover {
+	  background-color: var(--yellow);
+	  transform: scale(1.05);
+	}
+  
+	&>img {
+	  width: 32px;
+	  height: 32px;
+	}
+  }
+  
+  .tags.active-tag {
+	background-color: var(--yellow);
+	border-color: var(--red-dark);
+  }

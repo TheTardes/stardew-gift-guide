@@ -1,4 +1,33 @@
-@media (min-width:768px) {
+@media (min-width:1024px) {
+
+	body {
+		font-size: 18px;
+	  }
+
+
+/* .sidebar {
+  position: sticky;
+  width: 100%;
+  min-height: auto;
+  border-bottom: 2px solid var(--brown);
+  padding: 16px;
+  background: var(--dark-green);
+  color: var(--white);
+}
+
+.dashboard {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  max-height: none;
+  overflow-y: visible;
+  padding: 16px;
+} */
+
+
+
 
 	/* web */
   .universalgifts-buttons {
@@ -109,7 +138,6 @@
 	  flex: 1;
 	  overflow-y: auto;
 	  max-height: 100vh;
-	  padding-bottom: 60px;
 	}
   
 	.link-button {

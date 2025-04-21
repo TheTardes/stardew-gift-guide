@@ -13,73 +13,6 @@
   --xs-font: "IBM Plex Mono", monospace;
 }
 
-.site-footer {
-  margin-top: 60px;
-  padding: 24px 16px;
-  text-align: center;
-  background-color: var(--dark-green);
-  color: var(--yellow);
-  font-size: 14px;
-  border-top: 4px solid var(--brown);
-  font-family: "Pixelify Sans", sans-serif;
-
-  & a {
-    color: var(--yellow);
-    text-decoration: underline;
-  }
-}
-
-
-.shadow-effect-green {
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(74, 49, 0) 0px 0px 0px 3px;
-  box-shadow: inset 0 0 10px #013110;
-}
-
-.shadow-effect-cards {
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(74, 49, 0) 0px 0px 0px 3px;
-  box-shadow: inset 0 0 7px #371c01;
-}
-
-/* .test{
-  position: relative;
-
-  & svg {
-    position: absolute;
-    right: 20px;
-  }
-} */
-
-/* input {
-  &:focus {
-    background-color: #B66C3F;
-  }
-} */
-
-/* .sidebar {
-  position: sticky;
-  width: 100%;
-  min-height: auto;
-  border-bottom: 2px solid var(--brown);
-  padding: 16px;
-  background: var(--dark-green);
-  color: var(--white);
-}
-
-.dashboard {
-  display: flex;
-  flex-direction: column;
-}
-
-.main-content {
-  max-height: none;
-  overflow-y: visible;
-  padding: 16px;
-} */
-
-.sidebar-web {
-  display: none;
-}
-
 body {
   font-family: "Pixelify Sans", sans-serif;
   font-size: 16px;
@@ -90,6 +23,38 @@ body {
   background-position: center;
 }
 
+.site-footer {
+  margin-top: 40px;
+  padding: 24px 20px;
+  text-align: left;
+  background-color: var(--dark-green);
+  color: var(--yellow);
+  border-top: 6px solid var(--brown);
+  font-family: var(--xs-font);
+
+  & a {
+    color: var(--yellow);
+    text-decoration: underline;
+  }
+}
+
+/* Shadow effects from https://getcssscan.com/css-box-shadow-examples */
+.shadow-effect-green {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(74, 49, 0) 0px 0px 0px 3px;
+  box-shadow: inset 0 0 10px #013110;
+}
+
+.shadow-effect-cards {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(74, 49, 0) 0px 0px 0px 3px;
+  box-shadow: inset 0 0 7px #371c01;
+}
+
+
+.sidebar-web {
+  display: none;
+}
+
+/* navigation - top - links */
 .nav-style {
   display: flex;
   justify-content: space-between;
@@ -99,7 +64,35 @@ body {
   background-color: var(--dark-green);
 }
 
+.link-button {
+  display: flex;
+  height: 44px;
+  align-items: center;
+  gap: 5px;
+  color: var(--white);
+  cursor: pointer;
 
+  &>img {
+    width: 16px;
+    height: 16px;
+  }
+}
+
+/* h3 and h2 */
+
+h2 {
+  margin-top: 12px;
+  font-size: 32px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 24px;
+  text-align: center;
+}
+
+
+/* main promo - h1 */
 h1 {
   font-size: 3rem;
   color: var(--brand);
@@ -122,7 +115,6 @@ h1 {
     padding-block: 16px;
 
   }
-
   & .description {
     font-size: 24px;
     padding-inline: 20px;
@@ -153,9 +145,9 @@ h1 {
     width: 60%;
     margin-bottom: 8px;
   }
-
 }
 
+/* H3 description text */
 .description {
   color: var(--yellow-dark);
   font-size: 20px;
@@ -164,30 +156,13 @@ h1 {
   margin-bottom: 12px;
 }
 
-.link-button {
-  display: flex;
-  height: 44px;
-  align-items: center;
-  gap: 5px;
-  color: var(--white);
-  cursor: pointer;
 
-  &>img {
-    width: 16px;
-    height: 16px;
-  }
-}
-
-
-
-/* dropdown and search */
-
+/* dropdown */
 .find-section {
   display: flex;
   width: 100%;
   justify-content: center;
   align-self: center;
-
 }
 
 .find-buttons {
@@ -213,221 +188,8 @@ h1 {
   }
 }
 
-.universalgifts-buttons {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  gap: 6px;
-  padding: 12px 16px;
-  justify-content: center;
-  cursor: pointer;
-  width: 149px;
 
-  border-radius: 6px;
-  color: var(--red-dark);
-  border: 2px solid var(--brown);
-  background-color: var(--brown-light);
-
-  &:hover {
-    background-color: var(--yellow-dark);
-    transform: scale(1.05);
-  }
-
-  cursor: pointer;
-
-  & img {
-    width: 24px;
-    height: 24px;
-  }
-}
-
-.universalgifts-section {
-  display: flex;
-  justify-content: center;
-  gap: 12px;
-  align-self: stretch;
-  flex-wrap: wrap;
-  margin-bottom: 32px;
-  margin-inline: 20px;
-}
-
-
-#universalGiftList {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  padding-inline: 12px;
-  padding-block: 24px;
-  gap: 6px;
-
-  &>li {
-    border: 2px dashed var(--brown);
-    background-color: var(--yellow);
-    border-radius: 6px;
-    height: fit-content;
-    padding: 12px;
-    width: 100%;
-    height: 110px;
-    text-align: center;
-
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-
-  & li p {
-    font-size: 14px;
-    font-family: var(--xs-font);
-    line-height: 1.3rem;
-    margin-top: 8px;
-  }
-
-  & img {
-    width: 26px;
-    height: 26px;
-  }
-}
-
-
-h2 {
-  margin-top: 12px;
-  font-size: 32px;
-  text-align: center;
-}
-
-h3 {
-  font-size: 24px;
-  text-align: center;
-}
-
-
-
-/* NPC display container */
-
-.tags {
-  height: 56px;
-  width: 56px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  border-radius: 6px;
-  border: 4px solid var(--brown);
-  color: var(--red-dark);
-  background-color: var(--brown-light);
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(74, 49, 0) 0px 0px 0px 3px;
-  box-shadow: inset 0 0 7px #371c01;
-
-  cursor: pointer;
-  transition: all 0.2s ease;
-
-  &:hover {
-    background-color: var(--yellow);
-    transform: scale(1.05);
-  }
-
-  &>img {
-    width: 32px;
-    height: 32px;
-  }
-}
-
-.tags.active-tag {
-  background-color: var(--yellow);
-  border-color: var(--red-dark);
-}
-
-
-.gift-nav {
-  padding-inline: 12px;
-  gap: 6px;
-  margin-top: 24px;
-  padding-top: 6px;
-  margin-bottom: -6px;
-  position: sticky;
-  top: 0;
-  z-index: 10;
-  display: flex;
-  justify-content: center;
-}
-
-.npc-info {
-  margin-top: 60px;
-  margin-bottom: 44px;
-  display: flex;
-  flex-direction: column;
-  color: var(--white);
-  align-self: center;
-  justify-content: center;
-}
-
-.npc-frame {
-  margin-inline: auto;
-  text-align: center;
-  width: 230px;
-  padding-block: 44px;
-  padding-inline: 24px;
-  border-radius: 8px;
-  border: 6px solid var(--brown);
-  background-color: var(--dark-green);
-
-  & img {
-    max-width: 100px;
-  }
-}
-
-.birthday {
-  font-family: var(--xs-font);
-  font-size: 14px;
-  font-weight: 600;
-  text-transform: uppercase;
-  text-align: center;
-
-  border-radius: 8px;
-  color: var(--yellow);
-  background: var(--brown);
-  padding: 8px 10px;
-  width: 230px;
-  margin: auto;
-  margin-top: 12px;
-
-  & img {
-    width: 24px;
-    height: 24px;
-    vertical-align: middle;
-    margin-right: 6px;
-  }
-}
-
-.gift-grid {
-  display: flex;
-  flex-direction: column;
-  gap: 44px;
-  padding-bottom: 44px;
-  background-color: var(--yellow);
-  border: 6px solid var(--brown);
-  border-radius: 6px;
-  position: relative;
-}
-
-.gift-grid section {
-  scroll-margin-top: 70px;
-}
-
-.gift-title {
-  color: var(--brand);
-  background-color: var(--dark-green);
-  border-top: 4px solid var(--brown);
-  border-bottom: 4px solid var(--brown);
-  padding-block: 12px;
-  margin-bottom: 24px;
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(74, 49, 0) 0px 0px 0px 3px;
-  box-shadow: inset 0 0 2px #013110;
-
-  position: sticky;
-  top: 70;
-}
+/* mobile only elements */
 
 .mobile-fixed {
   position: fixed;
@@ -438,77 +200,13 @@ h3 {
   right: 12px;
 }
 
-.back-button {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 6px;
-
-  background-color: var(--yellow-dark);
-  color: var(--red-dark);
-  border: 4px solid var(--brown);
-  cursor: pointer;
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 12px, rgb(74, 49, 0) 0px 0px 0px 3px;
-  box-shadow: inset 0 0 2px #371c01;
-  border-radius: 6px;
-  text-align: center;
-  height: 48px;
-  padding-inline: 12px;
-  width: fit-content;
-
-  &>svg path {
-    fill: var(--red-dark);
-  }
-
-}
-
-
-
-/* Gift list styles */
-.gift-grid ul {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  justify-content: center;
-  gap: 6px;
-  padding-inline: 12px;
-}
-
-.gift-grid li {
-  border: 2px dashed var(--brown);
-  background-color: var(--yellow);
-  border-radius: 6px;
-  padding: 12px;
-  width: 100%;
-  height: 100px;
-  text-align: center;
-
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-
-  &>p {
-    font-family: var(--xs-font);
-    line-height: 1.3rem;
-    margin-top: 8px;
-    font-size: 14px;
-  }
-
-  &>img {
-    width: 32px;
-    height: 32px;
-  }
-}
-
 
 /* Hide elements */
 .hidden {
   display: none;
 }
 
-
 /* modal */
-
 .modal {
   position: fixed;
   inset: 0;
@@ -588,50 +286,8 @@ h3 {
   }
 }
 
-/* npc list  grid */
 
-.npc-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 12px;
-  padding-inline: 20px;
-  padding-block: 24px;
-}
-
-.npc-card {
-  font-size: 18px;
-  width: 100%;
-  text-align: center;
-  cursor: pointer;
-  align-items: center;
-
-  border-radius: 8px;
-  border: 4px solid var(--brown);
-  background: var(--yellow-dark);
-  padding-inline: 6px;
-  padding-block: 12px;
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(74, 49, 0) 0px 0px 0px 3px;
-  box-shadow: inset 0 0 7px #371c01;
-
-  transition: transform 0.2s;
-}
-
-.npc-card:hover {
-  transform: scale(1.05);
-  background-color: var(--yellow);
-}
-
-.npc-card img {
-  margin-bottom: 6px;
-  width: 60px;
-  height: 60px;
-}
-
-.hidden {
-  display: none;
-}
-
-
+/* sticky elements */
 /* Scroll button style from: https://www.w3schools.com/howto/howto_js_scroll_to_top.asp*/
 #scroll-top {
   display: none;
@@ -651,4 +307,27 @@ h3 {
 
   width: 48px;
   height: 48px;
+}
+
+.back-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+
+  background-color: var(--yellow-dark);
+  color: var(--red-dark);
+  border: 4px solid var(--brown);
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 12px, rgb(74, 49, 0) 0px 0px 0px 3px;
+  box-shadow: inset 0 0 2px #371c01;
+  border-radius: 6px;
+  text-align: center;
+  height: 48px;
+  padding-inline: 12px;
+  width: fit-content;
+
+  &>svg path {
+    fill: var(--red-dark);
+  }
 }
