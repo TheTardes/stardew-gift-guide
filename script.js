@@ -59,14 +59,14 @@ const displayGifts = (npcSelect) => {
             <img src="${selectedNPC.image}"></img>
             <h2>${selectedNPC.name}</h2>
         </section>
-         <p class="birthday"><img src="assets/cake.png" alt="Birthday" /> ${selectedNPC.Birthday}</p>
+         <p class="birthday"><img src="Assets/cake.png" alt="Birthday" /> ${selectedNPC.Birthday}</p>
     </section>
     <section>
         <div class="gift-nav">
             <button class="tags" data-target="loved" onclick="scrollToCategory('loved')"><img src="Assets/love.png" alt="about" /></button>
             <button class="tags" data-target="liked" onclick="scrollToCategory('liked')"><img src="Assets/like.png" alt="about" /</button>
             <button class="tags" data-target="neutral" onclick="scrollToCategory('neutral')"><img src="Assets/love.png" alt="about" /</button>
-            <button class="tags" data-target="disliked" onclick="scrollToCategory('disliked')"><img src="Assets/sad.png" alt="about" /</button>
+            <button class="tags" data-target="disliked" onclick="scrollToCategory('disliked')"><img src="Assets/Sad.png" alt="about" /</button>
             <button class="tags" data-target="hated" onclick="scrollToCategory('hated')"><img src="Assets/hate.png" alt="about" /</button>
             </div>
         <section class="gift-grid shadow-effect-cards">
@@ -141,7 +141,7 @@ function goBack() {
     const npcSelect = document.getElementById('npc-select');
     if (npcSelect) npcSelect.value = '';
 
-    window.scrollTo({ top: 0, behavior: 'auto' }); // should now work
+    window.scrollTo({ top: 0, behavior: 'auto' }); 
 }
 
 
@@ -152,6 +152,8 @@ function scrollToCategory(id) {
         setActiveTag(id);
     }
 }
+
+
 function setActiveTag(activeId) {
     document.querySelectorAll('.gift-nav .tags').forEach(btn => {
         if (btn.dataset.target === activeId) {
@@ -163,8 +165,6 @@ function setActiveTag(activeId) {
 }
 
 
-
-
 function openModal(id) {
     document.getElementById(id).classList.remove('hidden');
 }
@@ -172,7 +172,6 @@ function openModal(id) {
 function closeModal(id) {
     document.getElementById(id).classList.add('hidden');
 }
-
 
 
 // Get the button:from https://www.w3schools.com/howto/howto_js_scroll_to_top.asp

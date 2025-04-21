@@ -1,0 +1,232 @@
+@media (min-width:768px) {
+
+	/* web */
+  .universalgifts-buttons {
+	font-size: 18px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	gap: 6px;
+	padding: 16px 20px;
+	justify-content: center;
+	cursor: pointer;
+	width: 100%;
+  
+	border-radius: 8px;
+	color: var(--red-dark);
+	border: 6px solid var(--brown);
+	background-color: var(--brown-light);
+  
+	&:hover {
+	  background-color: var(--yellow-dark);
+	  transform: scale(1.05);
+	}
+  
+	cursor: pointer;
+  
+	& img {
+	  width: 32px;
+	  height: 32px;
+	}
+  }
+  
+  .universalgifts-section {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	gap: 12px;
+	align-self: stretch;
+	flex-wrap: wrap;
+  
+	margin-block: 32px;
+  }
+  
+	/* modal */
+	.title-modal {
+	  border-bottom: 6px solid var(--brown);
+	  padding: 12px 20px;
+  
+	  &>h3 {
+		font-size: 32px;
+	  }
+	}
+  
+	.modal-content {
+	  border: 6px solid var(--brown);
+	  border-radius: 12px;
+	}
+  
+	.close-button {
+	  width: 44px;
+	  height: 44px;
+  
+	  border-radius: 6px;
+	  border: 4px solid var(--brown);
+	}
+  
+	#universalGiftList img {
+	  width: 32px;
+	  height: 32px;
+	  margin-bottom: 6px;
+	}
+  
+	#universalGiftList{
+	  font-size: 16px;
+	}
+  
+	.mobile-select {
+	  display: none;
+	}
+  
+	.universal-mobile {
+	  display: none;
+	}
+  
+	.nav-style {
+	  display: none;
+	}
+  
+	.sidebar-web {
+	  display: block;
+	  position: sticky;
+	  width: 230px;
+	  min-height: 100vh;
+	  padding: 24px;
+	  border-right: 6px solid var(--brown);
+	  background: var(--dark-green);
+  
+	}
+  
+	.dashboard {
+	  display: flex;
+	  min-height: 100vh;
+	  align-items: flex-start;
+	}
+  
+	.main-content {
+	  flex: 1;
+	  overflow-y: auto;
+	  max-height: 100vh;
+	  padding-bottom: 60px;
+	}
+  
+	.link-button {
+	  font-size: 18px;
+	}
+  
+	h1 {
+	  font-size: 80px;
+	}
+  
+	.h1 {
+	  padding: 44px;
+	  position: relative;
+  
+	  &>section {
+		width: 100%;
+		border-radius: 16px;
+		border: 6px solid var(--brown);
+		background: var(--dark-green);
+		text-align: center;
+		padding-block: 32px;
+  
+	  }
+  
+	  & .description {
+		font-size: 32px;
+		text-align: center;
+		margin-bottom: 24px;
+	  }
+  
+	  & #leaf-1 {
+		position: absolute;
+		right: 32px;
+		top: 32px;
+		width: 60px;
+		height: 60px;
+		aspect-ratio: 1/1;
+	  }
+  
+	  & #leaf-2 {
+		position: absolute;
+		left: 32px;
+		top: 32px;
+		width: 60px;
+		height: 60px;
+		aspect-ratio: 1/1;
+	  }
+  
+	  & #junimos {
+		width: 30%;
+	  }
+  
+	}
+  
+  
+	.npc-grid {
+	  display: grid;
+	  grid-template-columns: repeat(5, 1fr);
+	  align-items: center;
+	  gap: 16px;
+	  margin: 44px;
+	  background: none;
+	  border: none;
+	  padding: 0;
+	}
+  
+	.hidden {
+	  display: none;
+	}
+  
+	.npc-card {
+	  padding: 32px;
+	  gap: 12px;
+  
+	  border-radius: 24px;
+	  border: 4px solid var(--brown);
+  
+	  font-size: 24px;
+  
+	}
+  
+	.npc-card img {
+	  width: 100px;
+	  height: 100px;
+	}
+  
+  
+  
+	.find-buttons {
+  
+	  height: 56px;
+	  width: 300px;
+	  border-radius: 12px;
+	  border: 2px solid var(--purple);
+  
+	}
+  
+	.npc-info {
+	  width: 60vh;
+	  border-radius: 24px;
+	  border: 4px solid var(--yellow-dark);
+	  padding: 44px 44px;
+	  margin-top: 12px;
+	  margin-inline: auto;
+  
+	}
+  
+	.gift-grid {
+	  margin-inline: 120px;
+	  gap: 100px;
+	  padding-inline: 120px;
+	  padding-block: 100px;
+	  margin-top: 32px;
+  
+	  border-radius: 24px;
+	  border: 4px solid var(--yellow-dark);
+	}
+  
+  
+  }
