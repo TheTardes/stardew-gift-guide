@@ -107,7 +107,6 @@
             "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Snail.png"
         }
     ],
-
     "Universal Loves": [
         {
             "name": "Golden Pumpkin",
@@ -138,6 +137,43 @@
             "name": "Prismatic Shard",
             "image": "https://stardewvalleywiki.com/mediawiki/images/Prismatic_Shard.png",
             "note": "Exception: Haley hates this."
+        }
+    ],
+
+    "Universal Dislikes": [
+        {
+            "name": "Coral",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/6/69/Coral.png"
+        },
+        {
+            "name": "Sea Urchin",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/18/Sea_Urchin.png"
+        },
+        {
+            "name": "Snow Yam",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Snow_Yam.png"
+        },
+        {
+            "name": "Winter Root",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Winter_Root.png"
+        },
+        {
+            "name": "Clay",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/d/d6/Clay.png"
+        },
+        {
+            "name": "Driftwood",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/b/bf/Driftwood.png",
+            "note": "Exception: Leah likes this."
+        },
+        {
+            "name": "Trash",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/4/44/Trash.png"
+        },
+        {
+            "name": "Joja Cola",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/4/4a/Joja_Cola.png",
+            "note": "Exception: Sam likes this."
         }
     ]
 }
