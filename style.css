@@ -94,9 +94,9 @@ h3 {
 
 /* main promo - h1 */
 h1 {
-  font-size: 3rem;
+  font-size: 48px;
   color: var(--brand);
-  margin-bottom: 1rem;
+  margin-bottom: 12px;
   margin-inline: 12px;
 }
 
@@ -114,13 +114,6 @@ h1 {
     text-align: center;
     padding-block: 16px;
 
-  }
-  & .description {
-    font-size: 24px;
-    padding-inline: 20px;
-    font-weight: 100;
-    text-align: center;
-    margin-bottom: 24px;
   }
 
   & #leaf-1 {
@@ -151,10 +144,12 @@ h1 {
 .description {
   color: var(--yellow-dark);
   font-size: 20px;
-  font-weight: 400;
+  font-weight: 100;
   color: var(--yellow);
-  margin-bottom: 12px;
+  margin-bottom: 24px;
+  padding-inline: 20px;
 }
+
 
 
 /* dropdown */
