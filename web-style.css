@@ -117,13 +117,13 @@
 	.modal-content {
 		border: 6px solid var(--brown);
 		border-radius: 12px;
-		max-width: 680px;
+		max-width: 700px;
 
 		&>p {
-			padding-inline: 20px;
+			padding-inline: 24px;
 			padding-block: 32px;
 			line-height: 1.3em;
-			font-family: 16px;
+			font-family: 18px;
 		}
 	}
 
