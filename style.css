@@ -55,13 +55,17 @@ body {
 }
 
 /* navigation - top - links */
-.nav-style {
+.nav-mobile {
   display: flex;
   justify-content: space-between;
   padding-inline: 20px;
   margin-bottom: 20px;
   border-bottom: 6px solid var(--brown);
   background-color: var(--dark-green);
+}
+
+.nav-web{
+  display: none;
 }
 
 .link-button {
@@ -136,7 +140,6 @@ h1 {
 
   & #junimos {
     width: 60%;
-    margin-bottom: 8px;
   }
 }
 
@@ -146,7 +149,8 @@ h1 {
   font-size: 20px;
   font-weight: 100;
   color: var(--yellow);
-  margin-bottom: 24px;
+  margin-top: 24px;
+  margin-bottom: 12px;
   padding-inline: 20px;
 }
 

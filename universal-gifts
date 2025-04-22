@@ -78,6 +78,18 @@
 }
 
 
+@media (min-width:450px) {
+	#universalGiftList {
+		grid-template-columns: repeat(3, 1fr);
+	}
+}
+
+@media (min-width:550px) {
+	#universalGiftList {
+		grid-template-columns: repeat(4, 1fr);
+	}
+}
+
 @media (min-width:1024px) {
 
 
@@ -120,3 +132,4 @@
 	}
 
 }
+
