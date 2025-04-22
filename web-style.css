@@ -1,8 +1,21 @@
-@media (min-width:540px) {
-	h1 {
-		font-size: 56px;
-		padding-inline: 24px;
+
+
+@media (min-width:550px) {
+
+	:root{
+		--h1-size: 56px;
 	}
+
+	.modal-content {
+		width: 90%;
+		max-width: 580px;
+		border-radius: 12px;
+	}
+
+	h1{
+		margin-inline:40px;
+	}
+
 
 	.h1 {
 
@@ -11,17 +24,8 @@
 		}
 
 		& .description {
-			font-size: 24px;
 			margin-bottom: 20px;
 		}
-	}
-}
-
-@media (min-width:550px) {
-	.modal-content {
-		width: 90%;
-		max-width: 580px;
-		border-radius: 12px;
 	}
 
 	.title-modal {
@@ -29,9 +33,17 @@
 			font-size: 28px;
 		}
 	}
+
 }
 
 @media (min-width:1024px) {
+	body {
+		font-size: 18px;
+	}
+	:root{
+		--h1-size: 64px;
+	}
+
 
 	.back-button {
 		width: 160px;
@@ -57,15 +69,8 @@
 		display: none;
 	}
 
-	body {
-		font-size: 18px;
-	}
 
 	/* h1 */
-	h1 {
-		font-size: 64px;
-		margin-inline: 60px;
-	}
 
 	.h1 {
 		padding: 44px;
@@ -78,8 +83,9 @@
 		}
 
 		& .description {
-			font-size: 30px;
 			padding-inline: 44px;
+			margin-bottom:0px;
+			margin-top:24px;
 		}
 
 		& #leaf-1 {
@@ -102,7 +108,7 @@
 		}
 
 	}
-
+	
 
 	/* modal */
 	.title-modal {
@@ -193,7 +199,7 @@
 @media (min-width:1224px) {
 	h1 {
 		margin-inline: 100px;
-		font-size: 68px;
+		font-size: 80px;
 	}
 
 	.h1 {

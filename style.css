@@ -11,7 +11,10 @@
   --yellow: #FCFCE4;
   --brand: #F3CA00;
   --xs-font: "IBM Plex Mono", monospace;
+
+  --h1-size: 48px;
 }
+
 
 body {
   font-family: "Pixelify Sans", sans-serif;
@@ -64,7 +67,7 @@ body {
   background-color: var(--dark-green);
 }
 
-.nav-web{
+.nav-web {
   display: none;
 }
 
@@ -98,10 +101,167 @@ h3 {
 
 /* main promo - h1 */
 h1 {
-  font-size: 48px;
+  font-size: var(--h1-size);
+  line-height: calc(1.2* var(--h1-size));
   color: var(--brand);
   margin-bottom: 12px;
-  margin-inline: 12px;
+  margin-inline: 16px;
+}
+
+.guide-text {
+  color: var(--yellow);
+  font-size: calc(0.5* var(--h1-size));
+  line-height: normal;
+  margin-block: 12px;
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: calc(0.3* var(--h1-size));
+}
+
+.key {
+  display: inline-block;
+  letter-spacing: -4px;
+  transition: transform 0.3s;
+}
+
+
+
+@keyframes pressDown1 {
+
+  30%,
+  40%,
+  100% {
+    transform: translateY(0);
+  }
+
+  35% {
+    transform: translateY(6px);
+  }
+}
+
+@keyframes pressDown2 {
+
+  70%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+
+  75% {
+    transform: translateY(6px);
+  }
+}
+
+@keyframes pressDown3 {
+
+  30%,
+  40%,
+  100% {
+    transform: translateY(0);
+  }
+
+  35% {
+    transform: translateY(6px);
+  }
+}
+
+@keyframes pressDown4 {
+
+  40%,
+  50%,
+  100% {
+    transform: translateY(0);
+  }
+
+  45% {
+    transform: translateY(6px);
+  }
+}
+
+@keyframes pressDown5 {
+
+  20%,
+  30%,
+  100% {
+    transform: translateY(0);
+  }
+
+  25% {
+    transform: translateY(6px);
+  }
+}
+
+@keyframes pressDown6 {
+
+  60%,
+  70%,
+  100% {
+    transform: translateY(0);
+  }
+
+  65% {
+    transform: translateY(6px);
+  }
+}
+
+@keyframes pressDown7 {
+
+  10%,
+  20%,
+  100% {
+    transform: translateY(0);
+  }
+
+  15% {
+    transform: translateY(6px);
+  }
+}
+
+@keyframes pressDown8 {
+
+  35%,
+  45%,
+  100% {
+    transform: translateY(0);
+  }
+
+  40% {
+    transform: translateY(6px);
+  }
+}
+
+.key:nth-child(1) {
+  animation: pressDown1 2s infinite;
+}
+
+.key:nth-child(2) {
+  animation: pressDown2 3s infinite;
+}
+
+.key:nth-child(3) {
+  animation: pressDown3 4s infinite;
+}
+
+.key:nth-child(4) {
+  animation: pressDown4 2.5s infinite;
+}
+
+.key:nth-child(5) {
+  animation: pressDown5 2.5s infinite;
+}
+
+.key:nth-child(6) {
+  animation: pressDown6 3.5s infinite;
+}
+
+.key:nth-child(7) {
+  animation: pressDown7 2.2s infinite;
+}
+
+.key:nth-child(8) {
+  animation: press
 }
 
 .h1 {
@@ -117,7 +277,6 @@ h1 {
     background: var(--dark-green);
     text-align: center;
     padding-block: 16px;
-
   }
 
   & #leaf-1 {
@@ -146,11 +305,11 @@ h1 {
 /* H3 description text */
 .description {
   color: var(--yellow-dark);
-  font-size: 20px;
-  font-weight: 100;
+  font-size: calc(0.3* var(--h1-size));
+  font-family: var(--xs-font);
+  font-weight: 400;
   color: var(--yellow);
-  margin-top: 24px;
-  margin-bottom: 12px;
+  margin-block: 20px;
   padding-inline: 20px;
 }
 
