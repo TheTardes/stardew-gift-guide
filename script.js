@@ -135,25 +135,28 @@ function showUniversalGifts(category) {
 // interaction functions
 
 // back
-
 function goBack() {
     document.getElementById('npc-display').classList.add('hidden');
     document.getElementById('npc-list').classList.remove('hidden');
-
-    const npcSelect = document.getElementById('npc-select');
-    if (npcSelect) npcSelect.value = '';
-
+  
+    // Reset all select dropdowns,Source https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll. To select class not the ID as I have 2 select dropdwons (web hidden on mobile)
+    const npcSelects = document.querySelectorAll('.npc-select');
+    npcSelects.forEach(select => {
+      select.value = '';
+    });
+    // To go through each dropdown and reset their selected value.
+  
+    //  Scroll to top or back to NPC grid
     window.scrollTo({ top: 0, behavior: 'auto' });
-
+  
     const npcList = document.getElementById('npc-list');
     if (npcList) {
-        npcList.scrollIntoView({ behavior: 'smooth' });
+      npcList.scrollIntoView({ behavior: 'smooth' });
     }
-}
+  }
 
 
 // tags
-
 function scrollToCategory(id) {
     const el = document.getElementById(id);
     if (el) {
