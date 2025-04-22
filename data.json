@@ -393,7 +393,7 @@
             },
             {
                 "name": "Sunflower",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Sunflower.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/8/81/Sunflower.png"
             },
             {
                 "name": "Golden Pumpkin",
@@ -726,7 +726,7 @@
             },
             {
                 "name": "Snow Yam",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Snow_Yam.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png"
             },
             {
                 "name": "Wild Horseradish",
@@ -1128,23 +1128,23 @@
         "Loves": [
             {
                 "name": "Crab Cakes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Crab_Cakes.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/7/70/Crab_Cakes.png"
             },
             {
                 "name": "Duck Feather",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Duck_Feather.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png"
             },
             {
                 "name": "Lobster",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Lobster.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/9/9f/Lobster.png"
             },
             {
                 "name": "Pomegranate",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Pomegranate.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Pomegranate.png"
             },
             {
                 "name": "Squid Ink",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Squid_Ink.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/a/ac/Squid_Ink.png"
             },
             {
                 "name": "Tom Kha Soup",
@@ -1452,7 +1452,7 @@
         "Hates": [
             {
                 "name": "Amaranth",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Amaranth.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f6/Amaranth.png"
             },
             {
                 "name": "Poppy",
@@ -1499,19 +1499,19 @@
             },
             {
                 "name": "Salad",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Salad.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png"
             },
             {
                 "name": "Stir Fry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Stir_Fry.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Stir_Fry.png"
             },
             {
                 "name": "Truffle",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Truffle.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Truffle.png"
             },
             {
                 "name": "Vegetable Medley",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Vegetable_Medley.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/0/0a/Vegetable_Medley.png"
             },
             {
                 "name": "Wine",
@@ -1870,15 +1870,15 @@
         "Loves": [
             {
                 "name": "Cactus Fruit",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Cactus_Fruit.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png"
             },
             {
                 "name": "Maple Bar",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Maple_Bar.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/1/18/Maple_Bar.png"
             },
             {
                 "name": "Pizza",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Pizza.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png"
             },
             {
                 "name": "Tigerseye",
@@ -2625,49 +2625,53 @@
         "Loves": [
             {
                 "name": "Battery Pack",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Battery_Pack.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/2/25/Battery_Pack.png"
             },
             {
                 "name": "Cauliflower",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Cauliflower.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Cauliflower.png"
             },
             {
                 "name": "Cheese Cauliflower",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Cheese_Cauliflower.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Cheese_Cauliflower.png"
             },
             {
                 "name": "Diamond",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png"
             },
             {
+                "name": "Dwarf Gadget",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/5/58/Dwarf_Gadget.png"
+            },
+            {
                 "name": "Gold Bar",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Gold_Bar.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Gold_Bar.png"
             },
             {
                 "name": "Iridium Bar",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Iridium_Bar.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/c/c4/Iridium_Bar.png"
             },
             {
                 "name": "Miner's Treat",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Miner's_Treat.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/1/12/Miner%27s_Treat.png"
             },
             {
                 "name": "Pepper Poppers",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Pepper_Poppers.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/0/08/Pepper_Poppers.png"
             },
             {
                 "name": "Radioactive Bar",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Radioactive_Bar.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Radioactive_Bar.png"
             },
             {
                 "name": "Strawberry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Strawberry.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png"
             }
         ],
         "Likes": [
             {
                 "name": "Copper Bar",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Copper_Bar.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Copper_Bar.png"
             },
             {
                 "name": "Beer",
@@ -2973,11 +2977,11 @@
             },
             {
                 "name": "Snow Yam",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Snow_Yam.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png"
             },
             {
                 "name": "Truffle",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Truffle.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Truffle.png"
             },
             {
                 "name": "Poppy",
@@ -3024,11 +3028,11 @@
             },
             {
                 "name": "Super Meal",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Super_Meal.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Super_Meal.png"
             },
             {
                 "name": "Truffle",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Truffle.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Truffle.png"
             },
             {
                 "name": "Wine",
@@ -3344,7 +3348,7 @@
             },
             {
                 "name": "Truffle",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Truffle.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Truffle.png"
             },
             {
                 "name": "Poppy",
@@ -3407,7 +3411,7 @@
             },
             {
                 "name": "Survival Burger",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Survival_Burger.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/8/87/Survival_Burger.png"
             },
             {
                 "name": "Topaz",
@@ -3415,7 +3419,7 @@
             },
             {
                 "name": "Wool",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Wool.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/3/34/Wool.png"
             }
         ],
         "Likes": [
@@ -3718,16 +3722,16 @@
         ],
         "Hates": [
             {
-                "name": "Fish",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Fish.png"
+                "name": "Fish Taco",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Fish_Taco.png"
             },
             {
-                "name": "Fried Egg",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Fried_Egg.png"
+                "name": "Holly",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
             },
             {
                 "name": "Maki Roll",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Maki_Roll.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Maki_Roll.png"
             },
             {
                 "name": "Sashimi",
@@ -3773,14 +3777,18 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Complete_Breakfast.png"
             },
             {
+                "name": "Jack Be Nimble,Be Thick",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Jack_Be_Nimble%2C_Jack_Be_Thick.png"
+            },
+            {
                 "name": "Salmon Dinner",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Salmon_Dinner.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Salmon_Dinner.png"
             }
         ],
         "Likes": [
             {
                 "name": "Egg",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Egg.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/2/26/Egg.png"
             },
             {
                 "name": "Beer",
@@ -4121,21 +4129,21 @@
             },
             {
                 "name": "Hot Pepper",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Hot_Pepper.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Hot_Pepper.png"
             },
             {
                 "name": "Pepper Poppers",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Pepper_Poppers.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/0/08/Pepper_Poppers.png"
             },
             {
                 "name": "Pizza",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Pizza.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png"
             }
         ],
         "Likes": [
             {
                 "name": "Egg",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Egg.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/2/26/Egg.png"
             },
             {
                 "name": "Beer",
@@ -4476,21 +4484,41 @@
         "Loves": [
             {
                 "name": "Fairy Rose",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Fairy_Rose.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/5/5c/Fairy_Rose.png"
+            },
+            {
+                "name": "Ancient Doll",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/c/c0/Ancient_Doll.png"
+            },
+            {
+                "name": "Fairy Box",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/7/7c/Fairy_Box.png"
             },
             {
                 "name": "Pink Cake",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png"
             },
             {
+                "name": "Strange Doll (green)",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/3/39/Strange_Doll_%28green%29.png"
+            },
+            {
+                "name": "Strange Doll (yellow)",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/e/ef/Strange_Doll_%28yellow%29.png"
+            },
+            {
                 "name": "Plum Pudding",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Plum_Pudding.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a0/Plum_Pudding.png"
             }
         ],
         "Likes": [
             {
                 "name": "Cookies",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Cookies.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/7/70/Cookie.png"
+            },
+            {
+                "name": "Coconut",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png"
             },
             {
                 "name": "Beer",
@@ -4753,10 +4781,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png"
             },
             {
-                "name": "Clay",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png"
-            },
-            {
                 "name": "Fiber",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/4/45/Fiber.png"
             },
@@ -4787,20 +4811,20 @@
         ],
         "Hates": [
             {
-                "name": "Garlic",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Garlic.png"
+                "name": "Clay",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png"
             },
             {
-                "name": "Poppy",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
+                "name": "Pina Colada",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/1/12/Pi%C3%B1a_Colada.png"
             },
             {
                 "name": "Quartz",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
             },
             {
-                "name": "Salmonberry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png"
+                "name": "Triple Shot",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/3/36/Triple_Shot_Espresso.png"
             },
             {
                 "name": "Spring Onion",
@@ -4809,10 +4833,6 @@
             {
                 "name": "Wild Horseradish",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
-            },
-            {
-                "name": "Sea Cucumber",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
             },
             {
                 "name": "Snail",
@@ -4827,15 +4847,19 @@
         "Loves": [
             {
                 "name": "Cranberry Candy",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Cranberry_Candy.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/9/9d/Cranberry_Candy.png"
+            },
+            {
+                "name": "Frog Egg",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/2/23/Green_Frog_Egg.png"
             },
             {
                 "name": "Ginger Ale",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Ginger_Ale.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/1/1a/Ginger_Ale.png"
             },
             {
                 "name": "Grapes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Grapes.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png"
             },
             {
                 "name": "Pink Cake",
@@ -4849,7 +4873,7 @@
         "Likes": [
             {
                 "name": "Ginger Ale",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Ginger_Ale.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/1/1a/Ginger_Ale.png"
             },
             {
                 "name": "Beer",
@@ -5146,20 +5170,20 @@
         ],
         "Hates": [
             {
-                "name": "Garlic",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Garlic.png"
+                "name": "Clay",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png"
             },
             {
-                "name": "Poppy",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
+                "name": "Pina Colada",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/1/12/Pi%C3%B1a_Colada.png"
             },
             {
                 "name": "Quartz",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
             },
             {
-                "name": "Salmonberry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png"
+                "name": "Triple Shot",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/3/36/Triple_Shot_Espresso.png"
             },
             {
                 "name": "Spring Onion",
@@ -5168,10 +5192,6 @@
             {
                 "name": "Wild Horseradish",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
-            },
-            {
-                "name": "Sea Cucumber",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
             },
             {
                 "name": "Snail",
@@ -5186,7 +5206,7 @@
         "Loves": [
             {
                 "name": "Fish Taco",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Fish_Taco.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Fish_Taco.png"
             },
             {
                 "name": "Green Tea",
@@ -5194,17 +5214,17 @@
             },
             {
                 "name": "Summer Spangle",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Summer_Spangle.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/9/9f/Summer_Spangle.png"
             },
             {
                 "name": "Tropical Curry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Tropical_Curry.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Tropical_Curry.png"
             }
         ],
         "Likes": [
             {
                 "name": "Dandelion",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Dandelion.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png"
             },
             {
                 "name": "Beer",
@@ -5502,7 +5522,7 @@
         "Hates": [
             {
                 "name": "Spice Berry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Spice_Berry.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png"
             },
             {
                 "name": "Poppy",
@@ -5541,13 +5561,13 @@
         "Loves": [
             {
                 "name": "Fried Calamari",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Fried_Calamari.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/2/25/Fried_Calamari.png"
             }
         ],
         "Likes": [
             {
                 "name": "Dandelion",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Dandelion.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png"
             },
             {
                 "name": "Beer",
@@ -5844,36 +5864,20 @@
         ],
         "Hates": [
             {
-                "name": "Spice Berry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Spice_Berry.png"
+                "name": "Corn",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png"
             },
             {
-                "name": "Poppy",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
+                "name": "Garlic",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/c/cc/Garlic.png"
             },
             {
-                "name": "Quartz",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
+                "name": "Parnish Soup",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/7/76/Parsnip_Soup.png"
             },
             {
-                "name": "Salmonberry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png"
-            },
-            {
-                "name": "Spring Onion",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png"
-            },
-            {
-                "name": "Wild Horseradish",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
-            },
-            {
-                "name": "Sea Cucumber",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
-            },
-            {
-                "name": "Snail",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
+                "name": "Tortilla",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d7/Tortilla.png"
             }
         ]
     },
@@ -5892,26 +5896,22 @@
             },
             {
                 "name": "Fried Eel",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Fried_Eel.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/8/84/Fried_Eel.png"
             },
             {
                 "name": "Pancakes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Pancakes.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Pancakes.png"
             },
             {
                 "name": "Rhubarb Pie",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Rhubarb_Pie.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/2/21/Rhubarb_Pie.png"
             },
             {
                 "name": "Vegetable Medley",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Vegetable_Medley.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/0/0a/Vegetable_Medley.png"
             }
         ],
         "Likes": [
-            {
-                "name": "Pancakes",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Pancakes.png"
-            },
             {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
@@ -6208,35 +6208,15 @@
         "Hates": [
             {
                 "name": "Spice Berry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Spice_Berry.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png"
             },
             {
-                "name": "Poppy",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
+                "name": "Dandelion",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png"
             },
             {
-                "name": "Quartz",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
-            },
-            {
-                "name": "Salmonberry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png"
-            },
-            {
-                "name": "Spring Onion",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png"
-            },
-            {
-                "name": "Wild Horseradish",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
-            },
-            {
-                "name": "Sea Cucumber",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
-            },
-            {
-                "name": "Snail",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
+                "name": "Daffodil",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png"
             }
         ]
     },
@@ -6247,17 +6227,17 @@
         "Loves": [
             {
                 "name": "Fiddlehead Risotto",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Fiddlehead_Risotto.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/2/2d/Fiddlehead_Risotto.png"
             },
             {
                 "name": "Roasted Hazelnuts",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Roasted_Hazelnuts.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/1/18/Roasted_Hazelnuts.png"
             }
         ],
         "Likes": [
             {
                 "name": "Pizza",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Pizza.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png"
             },
             {
                 "name": "Beer",
@@ -6555,7 +6535,7 @@
         "Hates": [
             {
                 "name": "Spice Berry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Spice_Berry.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png"
             },
             {
                 "name": "Poppy",
@@ -6594,25 +6574,25 @@
         "Loves": [
             {
                 "name": "Bean Hotpot",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Bean_Hotpot.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/2/24/Bean_Hotpot.png"
             },
             {
                 "name": "Ice Cream",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Ice_Cream.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/5/5d/Ice_Cream.png"
             },
             {
                 "name": "Rice Pudding",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Rice_Pudding.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/e/ec/Rice_Pudding.png"
             },
             {
                 "name": "Strawberry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Strawberry.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png"
             }
         ],
         "Likes": [
             {
                 "name": "Strawberry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Strawberry.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png"
             },
             {
                 "name": "Beer",
@@ -6909,36 +6889,8 @@
         ],
         "Hates": [
             {
-                "name": "Mead",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/8/84/Mead.png"
-            },
-            {
-                "name": "Poppy",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
-            },
-            {
-                "name": "Quartz",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
-            },
-            {
-                "name": "Salmonberry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png"
-            },
-            {
-                "name": "Spring Onion",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png"
-            },
-            {
-                "name": "Wild Horseradish",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
-            },
-            {
-                "name": "Sea Cucumber",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
-            },
-            {
-                "name": "Snail",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
+                "name": "Holly",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
             }
         ]
     },
@@ -6953,17 +6905,17 @@
             },
             {
                 "name": "Peach",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Peach.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/e/e2/Peach.png"
             },
             {
                 "name": "Spaghetti",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Spaghetti.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/0/08/Spaghetti.png"
             }
         ],
         "Likes": [
             {
                 "name": "Hardwood",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Hardwood.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Hardwood.png"
             },
             {
                 "name": "Beer",
@@ -7300,7 +7252,7 @@
         "Loves": [
             {
                 "name": "Catfish",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Catfish.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/9/99/Catfish.png"
             },
             {
                 "name": "Diamond",
@@ -7312,7 +7264,7 @@
             },
             {
                 "name": "Octopus",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Octopus.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/5/5a/Octopus.png"
             },
             {
                 "name": "Pumpkin",
@@ -7320,7 +7272,7 @@
             },
             {
                 "name": "Sturgeon",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Sturgeon.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/4/42/Sturgeon.png"
             }
         ],
         "Likes": [
@@ -7667,11 +7619,11 @@
             },
             {
                 "name": "Cactus Fruit",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Cactus_Fruit.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png"
             },
             {
                 "name": "Glazed Yams",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Glazed_Yams.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/3/30/Glazed_Yams.png"
             },
             {
                 "name": "Mead",
@@ -7679,11 +7631,11 @@
             },
             {
                 "name": "Parsnip Soup",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Parsnip_Soup.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/7/76/Parsnip_Soup.png"
             },
             {
                 "name": "Parsnips",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Parsnips.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png"
             },
             {
                 "name": "Pale Ale",
@@ -7691,14 +7643,6 @@
             }
         ],
         "Likes": [
-            {
-                "name": "Beer",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
-            },
-            {
-                "name": "Beer",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
-            },
             {
                 "name": "Wine",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/6/69/Wine.png"
@@ -7990,37 +7934,18 @@
         ],
         "Hates": [
             {
-                "name": "Coffee",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Coffee.png"
+                "name": "Holly",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
             },
             {
-                "name": "Poppy",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
+                "name": "Octopus",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/5/5a/Octopus.png"
             },
             {
-                "name": "Quartz",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
-            },
-            {
-                "name": "Salmonberry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png"
-            },
-            {
-                "name": "Spring Onion",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png"
-            },
-            {
-                "name": "Wild Horseradish",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
-            },
-            {
-                "name": "Sea Cucumber",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
-            },
-            {
-                "name": "Snail",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
+                "name": "Octopus",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/8/81/Squid.png"
             }
+
         ]
     },
     {
@@ -8030,11 +7955,11 @@
         "Loves": [
             {
                 "name": "Blueberry Tart",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Blueberry_Tart.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/9/9b/Blueberry_Tart.png"
             },
             {
                 "name": "Cactus Fruit",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Cactus_Fruit.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png"
             },
             {
                 "name": "Coconut",
@@ -8042,21 +7967,17 @@
             },
             {
                 "name": "Dish o' The Sea",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Dish_o'_The_Sea.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/ff/Dish_O%27_The_Sea.png"
             },
             {
                 "name": "Yam",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Yam.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/5/52/Yam.png"
             }
         ],
         "Likes": [
             {
                 "name": "Coconut",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png"
-            },
-            {
-                "name": "Beer",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
             },
             {
                 "name": "Wine",
@@ -8375,10 +8296,6 @@
             {
                 "name": "Sea Cucumber",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
-            },
-            {
-                "name": "Snail",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
             }
         ]
     },
@@ -8389,18 +8306,14 @@
         "Loves": [
             {
                 "name": "Leek",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Leek.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/5/57/Leek.png"
             },
             {
                 "name": "Fried Mushroom",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Fried_Mushroom.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/4/4a/Fried_Mushroom.png"
             }
         ],
         "Likes": [
-            {
-                "name": "Leek",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Leek.png"
-            },
             {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
@@ -8696,36 +8609,20 @@
         ],
         "Hates": [
             {
-                "name": "Garlic",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Garlic.png"
+                "name": "Clay",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png"
             },
             {
-                "name": "Poppy",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
+                "name": "Dandelion",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png"
             },
             {
                 "name": "Quartz",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
             },
             {
-                "name": "Salmonberry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png"
-            },
-            {
-                "name": "Spring Onion",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png"
-            },
-            {
-                "name": "Wild Horseradish",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
-            },
-            {
-                "name": "Sea Cucumber",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
-            },
-            {
-                "name": "Snail",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
+                "name": "Holly",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
             }
         ]
     },
@@ -8736,7 +8633,7 @@
         "Loves": [
             {
                 "name": "Beet",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Beet.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a4/Beet.png"
             },
             {
                 "name": "Chocolate Cake",
@@ -8748,17 +8645,25 @@
             },
             {
                 "name": "Fairy Rose",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Fairy_Rose.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/5/5c/Fairy_Rose.png"
             },
             {
                 "name": "Tulip",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Tulip.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Tulip.png"
+            },
+            {
+                "name": "Stuffing",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/9/9a/Stuffing.png"
+            },
+            {
+                "name": "Raisins",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/0/06/Raisins.png"
             }
         ],
         "Likes": [
             {
                 "name": "Dandelion",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Dandelion.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png"
             },
             {
                 "name": "Beer",
@@ -8987,10 +8892,6 @@
                 "image": "https://stardewvalleywiki.com/mediawiki/images/7/74/Earth_Crystal.png"
             },
             {
-                "name": "Diamond",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png"
-            },
-            {
                 "name": "Amethyst",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png"
             },
@@ -9019,10 +8920,6 @@
             {
                 "name": "Stone",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png"
-            },
-            {
-                "name": "Clay",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png"
             },
             {
                 "name": "Fiber",
@@ -9055,37 +8952,46 @@
         ],
         "Hates": [
             {
-                "name": "Tomato",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Tomato.png"
+                "name": "Clay",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png"
             },
             {
-                "name": "Poppy",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
+                "name": "Spice Berry",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png"
             },
             {
-                "name": "Quartz",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
+                "name": "Spicy Eel",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Spicy_Eel.png"
+            },
+            {
+                "name": "Tout Soup",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/4/48/Trout_Soup.png"
+            },
+            {
+                "name": "Fried Eel",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/8/84/Fried_Eel.png"
+            },
+            {
+                "name": "Garlic",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/c/cc/Garlic.png"
+            },
+            {
+                "name": "Holly",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
+            },
+            {
+                "name": "Maki Roll",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Maki_Roll.png"
             },
             {
                 "name": "Salmonberry",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png"
             },
             {
-                "name": "Spring Onion",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png"
-            },
-            {
-                "name": "Wild Horseradish",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
-            },
-            {
-                "name": "Sea Cucumber",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
-            },
-            {
-                "name": "Snail",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
+                "name": "Sashimi",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png"
             }
+
         ]
     },
     {
@@ -9107,11 +9013,11 @@
             },
             {
                 "name": "Gold Bar",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Gold_Bar.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Gold_Bar.png"
             },
             {
                 "name": "Iridium Bar",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Iridium_Bar.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/c/c4/Iridium_Bar.png"
             },
             {
                 "name": "Jade",
@@ -9119,7 +9025,7 @@
             },
             {
                 "name": "Omni Geode",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Omni_Geode.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/0/09/Omni_Geode.png"
             },
             {
                 "name": "Ruby",
@@ -9430,36 +9336,8 @@
         ],
         "Hates": [
             {
-                "name": "Garlic",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Garlic.png"
-            },
-            {
-                "name": "Poppy",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
-            },
-            {
-                "name": "Quartz",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
-            },
-            {
-                "name": "Salmonberry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png"
-            },
-            {
-                "name": "Spring Onion",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png"
-            },
-            {
-                "name": "Wild Horseradish",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
-            },
-            {
-                "name": "Sea Cucumber",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
-            },
-            {
-                "name": "Snail",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
+                "name": "Holly",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
             }
         ]
     },
@@ -9474,25 +9352,25 @@
             },
             {
                 "name": "Escargot",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Escargot.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/7/78/Escargot.png"
             },
             {
                 "name": "Fish Taco",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Fish_Taco.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Fish_Taco.png"
             },
             {
                 "name": "Orange",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Orange.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/4/43/Orange.png"
             },
             {
                 "name": "Tropical Curry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Tropical_Curry.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Tropical_Curry.png"
             }
         ],
         "Likes": [
             {
                 "name": "Fish Stew",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Fish_Stew.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Fish_Stew.png"
             },
             {
                 "name": "Beer",
@@ -9789,36 +9667,12 @@
         ],
         "Hates": [
             {
-                "name": "Garlic",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Garlic.png"
+                "name": "Daffodil",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png"
             },
             {
-                "name": "Poppy",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
-            },
-            {
-                "name": "Quartz",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
-            },
-            {
-                "name": "Salmonberry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png"
-            },
-            {
-                "name": "Spring Onion",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png"
-            },
-            {
-                "name": "Wild Horseradish",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
-            },
-            {
-                "name": "Sea Cucumber",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
-            },
-            {
-                "name": "Snail",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
+                "name": "Truffle",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Truffle.png"
             }
         ]
     },
@@ -9833,7 +9687,7 @@
             },
             {
                 "name": "Farmers Lunch",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Farmers_Lunch.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/7/79/Farmer%27s_Lunch.png"
             },
             {
                 "name": "Pink Cake",
@@ -9841,7 +9695,7 @@
             },
             {
                 "name": "Pumpkin Pie",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Pumpkin_Pie.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Pumpkin_Pie.png"
             }
         ],
         "Likes": [
@@ -10144,37 +9998,14 @@
         ],
         "Hates": [
             {
-                "name": "Garlic",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Garlic.png"
+                "name": "Clay",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png"
             },
             {
-                "name": "Poppy",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
-            },
-            {
-                "name": "Quartz",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
-            },
-            {
-                "name": "Salmonberry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png"
-            },
-            {
-                "name": "Spring Onion",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png"
-            },
-            {
-                "name": "Wild Horseradish",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
-            },
-            {
-                "name": "Sea Cucumber",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
-            },
-            {
-                "name": "Snail",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
+                "name": "Holly",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
             }
+           
         ]
     },
     {
@@ -10184,21 +10015,21 @@
         "Loves": [
             {
                 "name": "Autumn's Bounty",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Autumn's_Bounty.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f4/Autumn%27s_Bounty.png"
             },
             {
                 "name": "Glazed Yams",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Glazed_Yams.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/3/30/Glazed_Yams.png"
             },
             {
                 "name": "Vegetable Medley",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Vegetable_Medley.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/0/0a/Vegetable_Medley.png"
             }
         ],
         "Likes": [
             {
                 "name": "Hot Pepper",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Hot_Pepper.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Hot_Pepper.png"
             },
             {
                 "name": "Beer",
@@ -10495,36 +10326,12 @@
         ],
         "Hates": [
             {
-                "name": "Spice Berry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Spice_Berry.png"
+                "name": "Holly",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
             },
             {
                 "name": "Poppy",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
-            },
-            {
-                "name": "Quartz",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
-            },
-            {
-                "name": "Salmonberry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png"
-            },
-            {
-                "name": "Spring Onion",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png"
-            },
-            {
-                "name": "Wild Horseradish",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
-            },
-            {
-                "name": "Sea Cucumber",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
-            },
-            {
-                "name": "Snail",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
             }
         ]
     },
@@ -10551,11 +10358,15 @@
             },
             {
                 "name": "Lemon Stone",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Lemon_Stone.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/3/31/Lemon_Stone.png"
+            },
+            {
+                "name": "Lava Eel",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/1/12/Lava_Eel.png"
             },
             {
                 "name": "Omni Geode",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Omni_Geode.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/0/09/Omni_Geode.png"
             },
             {
                 "name": "Ruby",
@@ -10867,7 +10678,7 @@
         "Hates": [
             {
                 "name": "Spice Berry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Spice_Berry.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png"
             },
             {
                 "name": "Poppy",
@@ -10892,10 +10703,6 @@
             {
                 "name": "Sea Cucumber",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
-            },
-            {
-                "name": "Snail",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
             }
         ]
     },
@@ -10906,22 +10713,22 @@
         "Loves": [
             {
                 "name": "Crocus",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Crocus.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png"
             },
             {
                 "name": "Daffodil",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png"
             },
             {
+                "name": "Mango Sticky Rice",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Mango_Sticky_Rice.png"
+            },
+            {
                 "name": "Sweet Pea",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Sweet_Pea.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png"
             }
         ],
         "Likes": [
-            {
-                "name": "Sweet Pea",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Sweet_Pea.png"
-            },
             {
                 "name": "Beer",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
@@ -11217,36 +11024,8 @@
         ],
         "Hates": [
             {
-                "name": "Void Egg",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/5/58/Void_Egg.png"
-            },
-            {
-                "name": "Poppy",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
-            },
-            {
-                "name": "Quartz",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
-            },
-            {
-                "name": "Salmonberry",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png"
-            },
-            {
-                "name": "Spring Onion",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png"
-            },
-            {
-                "name": "Wild Horseradish",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
-            },
-            {
-                "name": "Sea Cucumber",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
-            },
-            {
-                "name": "Snail",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
+                "name": "Holly",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
             }
         ]
     },
@@ -11257,15 +11036,23 @@
         "Loves": [
             {
                 "name": "Purple Mushroom",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Purple_Mushroom.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png"
             },
             {
                 "name": "Solar Essence",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Solar_Essence.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/f/f4/Solar_Essence.png"
+            },
+            {
+                "name": "Super Cucumber",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Super_Cucumber.png"
+            },
+            {
+                "name": "Book of Mysteries",
+                "image": "https://stardewvalleywiki.com/mediawiki/images/d/df/Book_of_Mysteries.png"
             },
             {
                 "name": "Void Essence",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Void_Essence.png"
+                "image": "https://stardewvalleywiki.com/mediawiki/images/1/1f/Void_Essence.png"
             }
         ],
         "Likes": [
@@ -11941,10 +11728,6 @@
             {
                 "name": "Sea Cucumber",
                 "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
-            },
-            {
-                "name": "Snail",
-                "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
             }
         ]
     }

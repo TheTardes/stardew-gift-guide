@@ -1,112 +1,232 @@
 {
     "Universal Likes": [
         {
-            "name": "Beer",
-            "image": "https://stardewvalleywiki.com/File:Beer.png"
-        },
-        {
-            "name": "Wine",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Wine.png"
-        },
-        {
-            "name": "Coffee",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Coffee.png"
-        },
-        {
-            "name": "Green Tea",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Green_Tea.png"
-        },
-        {
-            "name": "Juice",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Juice.png"
-        },
-        {
-            "name": "Honey",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Honey.png"
-        },
-        {
-            "name": "Cheese",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Cheese.png"
-        },
-        {
-            "name": "Goat Cheese",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Goat_Cheese.png"
-        },
-        {
-            "name": "Cloth",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Cloth.png"
-        },
-        {
-            "name": "Mayonnaise",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Mayonnaise.png"
-        },
-        {
-            "name": "Dinosaur Mayonnaise",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Dinosaur_Mayonnaise.png"
-        },
-        {
-            "name": "Truffle Oil",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Truffle_Oil.png"
-        },
-        {
-            "name": "Pickles",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Pickles.png"
-        },
-        {
-            "name": "Jelly",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Jelly.png"
+            "name": "Life Elixir",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Life_Elixir.png"
         },
         {
             "name": "Maple Syrup",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Maple_Syrup.png"
+            "image": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Maple_Syrup.png"
         },
         {
-            "name": "Pale Ale",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Pale_Ale.png"
+            "name": "Pina Colada",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/12/Pi%C3%B1a_Colada.png"
         },
         {
-            "name": "Mead",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Mead.png"
+            "name": "Rainbow Shell",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Rainbow_Shell.png"
         },
         {
-            "name": "Oil",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Oil.png"
-        },
-        {
-            "name": "Tea Leaves",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Tea_Leaves.png"
+            "name": "Treasure Chest",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Treasure_Chest.png"
         }
     ],
     "Universal Hates": [
         {
+            "name": "Artifact Trove",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/8/82/Artifact_Trove.png"
+        },
+        {
+            "name": "Blue Grass Starter",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/18/Blue_Grass_Starter.png"
+        },{
+            "name": "Bug Steak",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/b/b7/Bug_Steak.png"
+        },
+        {
+            "name": "Butterfly Powder",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Butterfly_Powder.png"
+        },
+        {
+            "name": "Carp",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/a/a8/Carp.png"
+        },
+        {
+            "name": "Cookout Kit",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/9/91/Cookout_Kit.png"
+        },
+        {
+            "name": "Copper Ore",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/7/78/Copper_Ore.png"
+        },
+        {
+            "name": "Crab Pot",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/9/92/Crab_Pot.png"
+        },
+        {
+            "name": "Dragon Tooth",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/8/87/Dragon_Tooth.png"
+        },
+        {
+            "name": "Drum Block",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/d/dc/Drum_Block.png"
+        },
+        {
+            "name": "Energy Tonic",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/a/a6/Energy_Tonic.png"
+        },
+        {
+            "name": "Error Item",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/d/db/Error_Item.png"
+        },
+        {
+            "name": "Explosive Ammo",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/f3/Explosive_Ammo.png"
+        },
+        {
+            "name": "Fairy Dust",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/fc/Fairy_Dust.png"
+        },
+        {
+            "name": "Flute Block",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/3/31/Flute_Block.png"
+        },
+        {
+            "name": "Grass Starter",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/14/Grass_Starter.png"
+        },
+        {
+            "name": "Green Algae",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/6/6d/Green_Algae.png"
+        },
+        {
+            "name": "Golden Coconut",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/c/ca/Golden_Coconut.png"
+        },
+        {
+            "name": "Golden Mystery Box",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/fb/Golden_Mystery_Box.png"
+        },
+        {
+            "name": "Golden Tag",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/9/98/Golden_Tag.png"
+        },
+        {
+            "name": "Hay",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Hay.png"
+        },
+        {
+            "name": "Iron Ore",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/8/87/Iron_Ore.png"
+        },
+        {
+            "name": "Journal Scrap",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/c/c4/Journal_Scrap.png"
+        },
+        {
+            "name": "Monster Musk",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/a/af/Monster_Musk.png"
+        },
+        {
+            "name": "Muscle Remedy",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Muscle_Remedy.png"
+        },
+        {
+            "name": "Mystery Box",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/8/87/Mystery_Box.png"
+        },
+        {
+            "name": "Oil of Garlic",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Oil_of_Garlic.png"
+        },
+        {
             "name": "Poppy",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Poppy.png"
+            "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
         },
         {
-            "name": "Quartz",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Quartz.png"
+            "name": "Qi Seasoning",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Qi_Seasoning.png"
         },
         {
-            "name": "Salmonberry",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Salmonberry.png"
+            "name": "Radioactive Bar",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Radioactive_Bar.png"
         },
         {
-            "name": "Spring Onion",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Spring_Onion.png"
+            "name": "Radioactive Ore",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/9/9f/Radioactive_Ore.png"
         },
         {
-            "name": "Wild Horseradish",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Wild_Horseradish.png"
+            "name": "Rain Totem",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Rain_Totem.png"
         },
         {
-            "name": "Sea Cucumber",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Sea_Cucumber.png"
+            "name": "Red Mushroom",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/e/e1/Red_Mushroom.png"
+        },
+        {
+            "name": "Sap",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/7/73/Sap.png"
+        },
+        {
+            "name": "Sea Urchin",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/e/e7/Sea_Urchin.png"
+        },
+        {
+            "name": "Seafoam Pudding",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/3/33/Seafoam_Pudding.png"
+        },
+        {
+            "name": "Seaweed",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/13/Seaweed.png"
+        },
+        {
+            "name": "Secret Note",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/Secret_Note.png/48px-Secret_Note.png"
+        },
+        {
+            "name": "Slime Egg",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Green_Slime_Egg.png"
         },
         {
             "name": "Snail",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/Snail.png"
+            "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
+        },
+        {
+            "name": "Strange Bun",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/5/5e/Strange_Bun.png"
+        },
+        {
+            "name": "Sugar",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sugar.png"
+        },
+        {
+            "name": "Tent Kit",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/0/05/Tent_Kit.png"
+        },
+        {
+            "name": "Torch",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/b/b2/Torch.png"
+        },
+        {
+            "name": "Void Mayonnaise",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/f3/Void_Mayonnaise.png"
+        },
+        {
+            "name": "Warp Totem: Beach",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Warp_Totem_Beach.png"
+        },
+        {
+            "name": "Warp Totem: Desert",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/8/83/Warp_Totem_Desert.png"
+        },
+        {
+            "name": "Warp Totem: Farm",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/e/e4/Warp_Totem_Farm.png"
+        },
+        {
+            "name": "Warp Totem: Island",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/b/b9/Warp_Totem_Island.png"
+        },
+        {
+            "name": "Warp Totem: Mountains",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/d/d8/Warp_Totem_Mountains.png"
+        },
+        {
+            "name": "White Algae",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/f7/White_Algae.png"
         }
     ],
+    
     "Universal Loves": [
         {
             "name": "Golden Pumpkin",
@@ -121,8 +241,8 @@
             "image": "https://stardewvalleywiki.com/mediawiki/images/7/73/Pearl.png"
         },
         {
-            "name": "Sweet Gem Berry",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/8/88/Sweet_Gem_Berry.png"
+            "name": "Prismatic Shard",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/5/56/Prismatic_Shard.png"
         },
         {
             "name": "Tea Set",
@@ -130,50 +250,147 @@
         },
         {
             "name": "Rabbit's Foot",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/Rabbit%27s_Foot.png",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/c/ca/Rabbit%27s_Foot.png",
             "note": "Exception: Penny hates this."
         },
         {
-            "name": "Prismatic Shard",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/Prismatic_Shard.png",
+            "name": "Stardrop Tea",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/6/6c/Stardrop_Tea.png",
             "note": "Exception: Haley hates this."
         }
     ],
 
     "Universal Dislikes": [
         {
-            "name": "Coral",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/6/69/Coral.png"
-        },
-        {
-            "name": "Sea Urchin",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/1/18/Sea_Urchin.png"
-        },
-        {
-            "name": "Snow Yam",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Snow_Yam.png"
-        },
-        {
-            "name": "Winter Root",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Winter_Root.png"
-        },
-        {
-            "name": "Clay",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/d/d6/Clay.png"
+            "name": "Cave Carrot",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/3/34/Cave_Carrot.png"
         },
         {
             "name": "Driftwood",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/b/bf/Driftwood.png",
-            "note": "Exception: Leah likes this."
+            "image": "https://stardewvalleywiki.com/mediawiki/images/6/63/Driftwood.png"
         },
         {
-            "name": "Trash",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/4/44/Trash.png"
+            "name": "Field Snack",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Field_Snack.png"
         },
         {
-            "name": "Joja Cola",
-            "image": "https://stardewvalleywiki.com/mediawiki/images/4/4a/Joja_Cola.png",
-            "note": "Exception: Sam likes this."
+            "name": "Jack-O-Lantern",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/17/Jack-O-Lantern.png"
+        },
+        {
+            "name": "Oak Resin",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/4/40/Oak_Resin.png"
+        },
+        {
+            "name": "Oil",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/0/06/Oil.png"
+        },
+        {
+            "name": "Pine Tar",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/c/ce/Pine_Tar.png"
+        },
+        {
+            "name": "Price Catalogue",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Price_Catalogue.png"
+        },
+        {
+            "name": "Qi Fruit",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/b/b9/Qi_Fruit.png"
+        },
+        {
+            "name": "Rice",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/d/da/Rice.png"
+        },
+        {
+            "name": "Solar Essence",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/f4/Solar_Essence.png"
+        },
+        {
+            "name": "Spring Onion",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png"
+        },
+        {
+            "name": "Tea Set",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/9/9b/Tea_Set.png"
+        },
+        {
+            "name": "Unmilled Rice",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/fe/Unmilled_Rice.png"
+        },
+        {
+            "name": "Vinegar",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/fe/Vinegar.png"
+        },
+        {
+            "name": "Void Egg",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/5/58/Void_Egg.png"
+        },
+        {
+            "name": "Void Essence",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/1f/Void_Essence.png"
+        },
+        {
+            "name": "Wheat Flour",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/2/2c/Wheat_Flour.png"
+        }
+    ],
+
+    "Universal Neutrals": [
+        {
+            "name": "Bread",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/e/e1/Bread.png"
+        },
+        {
+            "name": "Coral",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Coral.png"
+        },
+        {
+            "name": "Duck Feather",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png"
+        },
+        {
+            "name": "Fried Egg",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/18/Fried_Egg.png"
+        },
+        {
+            "name": "Hops",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png"
+        },
+        {
+            "name": "Mystic Syrup",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/5/5a/Mystic_Syrup.png"
+        },
+        {
+            "name": "Nautilus Shell",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/a/a4/Nautilus_Shell.png"
+        },
+        {
+            "name": "Roe",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/5/56/Roe.png"
+        },
+        {
+            "name": "Squid Ink",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/a/ac/Squid_Ink.png"
+        },
+        {
+            "name": "Sweet Gem Berry",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/8/88/Sweet_Gem_Berry.png"
+        },
+        {
+            "name": "Tea Leaves",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/5/5b/Tea_Leaves.png"
+        },
+        {
+            "name": "Truffle",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Truffle.png"
+        },
+        {
+            "name": "Wheat",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/e/e2/Wheat.png"
+        },
+        {
+            "name": "Wool",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/3/34/Wool.png"
         }
     ]
 }

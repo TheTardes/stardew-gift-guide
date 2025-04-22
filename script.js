@@ -63,11 +63,11 @@ const displayGifts = (npcSelect) => {
     </section>
     <section>
         <div class="gift-nav">
-            <button class="tags" data-target="loved" onclick="scrollToCategory('loved')"><img src="Assets/love.png" alt="about" /></button>
-            <button class="tags" data-target="liked" onclick="scrollToCategory('liked')"><img src="Assets/like.png" alt="about" /</button>
-            <button class="tags" data-target="neutral" onclick="scrollToCategory('neutral')"><img src="Assets/neutral.png" alt="about" /</button>
-            <button class="tags" data-target="disliked" onclick="scrollToCategory('disliked')"><img src="Assets/Sad.png" alt="about" /</button>
-            <button class="tags" data-target="hated" onclick="scrollToCategory('hated')"><img src="Assets/hate.png" alt="about" /</button>
+            <button class="tags" data-target="loved" onclick="scrollToCategory('loved')"><img src="Assets/love.png" alt="about"/><p class="hide-tagtext" >Loved</p></button>
+            <button class="tags" data-target="liked" onclick="scrollToCategory('liked')"><img src="Assets/like.png" alt="about" /><p class="hide-tagtext" >Liked</p></button>
+            <button class="tags" data-target="neutral" onclick="scrollToCategory('neutral')"><img src="Assets/neutral.png" alt="about" /><p class="hide-tagtext" >Neutral</p></button>
+            <button class="tags" data-target="disliked" onclick="scrollToCategory('disliked')"><img src="Assets/Sad.png" alt="about" /><p class="hide-tagtext" >Disliked</p></button>
+            <button class="tags" data-target="hated" onclick="scrollToCategory('hated')"><img src="Assets/hate.png" alt="about"/><p class="hide-tagtext" >Hated</p></button>
             </div>
         <section class="gift-grid shadow-effect-cards">
             <section id="loved"><h3 class="gift-title">Loved gifts</h3><ul>`
