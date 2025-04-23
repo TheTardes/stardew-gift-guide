@@ -10,7 +10,7 @@
   --brown-light: #ecaf71;
   --yellow: #FCFCE4;
   --brand: #F3CA00;
-  --xs-font: "IBM Plex Mono", monospace;
+  --xs-font: "Open-sans", sans-serif;
 
   --h1-size: 48px;
 }
@@ -163,7 +163,7 @@ h1 {
 .description {
   color: var(--yellow-dark);
   font-size: calc(0.3* var(--h1-size));
-  font-family: var(--xs-font);
+  font-family: "IBM Plex Mono", monospace;
   font-weight: 400;
   color: var(--yellow);
   margin-block: 20px;
@@ -268,13 +268,6 @@ h1 {
   max-height: 90vh;
 
   text-align: center;
-
-  &>p {
-    padding: 20px;
-    text-align: start;
-    line-height: 1.3rem;
-    font-family: var(--xs-font);
-  }
 }
 
 .close-button {

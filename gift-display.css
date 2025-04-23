@@ -22,7 +22,7 @@
 	justify-content: center;
 
 	&>p {
-		font-family: var(--xs-font);
+		font-family: "IBM Plex Mono", monospace;
 		line-height: 1.3rem;
 		margin-top: 8px;
 		font-size: 14px;

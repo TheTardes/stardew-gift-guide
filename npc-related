@@ -65,7 +65,7 @@
 }
 
 .birthday {
-	font-family: var(--xs-font);
+	font-family: "IBM Plex Mono", monospace;
 	font-size: 14px;
 	font-weight: 600;
 	text-transform: uppercase;
