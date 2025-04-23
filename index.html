@@ -25,7 +25,6 @@
 </head>
 
 <body class="dashboard">
-	<button onclick="topFunction()" id="scroll-top" title="Go to top">Top</button>
 	<!-- mobile -->
 	<nav class="nav-mobile shadow-effect-cards">
 		<button class="link-button" onclick="openModal('aboutModal')">
@@ -67,8 +66,9 @@
 				Universal Hates</button>
 		</section>
 	</aside>
-
-	<section class="main-content">
+<!-- adding main content ID to make it work in js - for scroll to top -->
+	<section id="main-content" class="main-content">
+		<button onclick="topFunction()" id="scroll-top" title="Go to top">Top</button>
 		<nav class="nav-web shadow-effect-cards">
 			<button class="link-button" onclick="openModal('aboutModal')">
 				About Game
@@ -170,8 +170,7 @@
 		<section id="npc-list" class="npc-grid"></section>
 
 		<!-- NPC Gift Display Section -->
-		<section id="npc-display">
-		</section>
+		<section id="npc-display"></section>
 
 		<!-- it should be inside main content section to adopt the "dashboard" style on web -->
 		<footer class="site-footer shadow-effect-green">

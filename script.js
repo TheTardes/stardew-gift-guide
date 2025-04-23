@@ -238,24 +238,35 @@ function closeModal(id) {
 
 // scroll to top
 // Get the button:from https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
-let topButton = document.getElementById("scroll-top");
+const topButton = document.getElementById("scroll-top");
+const scrollContainer = document.getElementById("main-content");
 
+// Detect scroll on main-content (web layout)
+scrollContainer.addEventListener("scroll", () => {
+    scrollButton(scrollContainer.scrollTop);
+  });
+  
+  // Detect scroll on window (mobile layout)
+  window.addEventListener("scroll", () => {
+    const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+    scrollButton(scrollTop);
+  });
+  
 // When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function () { scrollFunction() };
 
-function scrollFunction() {
-    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-        topButton.style.display = "block";
+function scrollButton(scrollTop) {
+    if (scrollTop > 20) {
+      topButton.style.display = "block";
     } else {
-        topButton.style.display = "none";
+      topButton.style.display = "none";
     }
+  };
 
-}
-
-// When the user clicks on the button, scroll to the top of the document
+// When the user clicks on the button, scroll to the top of the document for both window and main content
 function topFunction() {
+    scrollContainer.scrollTo({ top: 0, behavior: 'smooth' });
     window.scrollTo({ top: 0, behavior: 'smooth' });
-}
+  }
 
 
 

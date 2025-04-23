@@ -138,6 +138,11 @@
 		}
 	}
 
+	#scroll-top {
+		bottom: 24px;
+		right: 34px;
+	  }
+
 }
 
 @media (min-width:1300px) {
