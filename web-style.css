@@ -34,6 +34,18 @@
 
 }
 
+@media (min-width:768px){
+	footer {
+		margin-top: 40px;
+		padding: 32px 80px;
+	  
+		& .warning {
+		  border: 2px dashed var(--brand);
+		}
+	  }
+	
+}
+
 @media (min-width:1024px) {
 	body {
 		font-size: 18px;
@@ -225,5 +237,19 @@
 			left: 80px;
 		}
 	}
+
+	footer {
+		margin-top: 40px;
+		padding: 32px 120px;
+	  
+		& .warning {
+		  border: 2px dashed var(--brand);
+		}
+	  }
+	.footer-bottom{
+		&>img {
+		  width: 50%;
+		}
+	  }
 
 }
