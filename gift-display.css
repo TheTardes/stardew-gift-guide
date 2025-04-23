@@ -82,9 +82,10 @@
 
 /* tags */
 
-.hide-tagtext{
+.hide-tagtext {
 	display: none;
 }
+
 .tags {
 	height: 56px;
 	width: 56px;
@@ -163,7 +164,7 @@
 
 	}
 
-	.hide-tagtext{
+	.hide-tagtext {
 		display: block;
 	}
 

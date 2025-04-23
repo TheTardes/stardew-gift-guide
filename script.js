@@ -138,23 +138,21 @@ function showUniversalGifts(category) {
 function goBack() {
     document.getElementById('npc-display').classList.add('hidden');
     document.getElementById('npc-list').classList.remove('hidden');
-  
-    // Reset all select dropdowns,Source https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll. To select class not the ID as I have 2 select dropdwons (web hidden on mobile)
+
+    // Reset all (web and mobile) select dropdowns, Source https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll. I select class not the ID as I have 2 select dropdwons (web hidden on mobile)
     const npcSelects = document.querySelectorAll('.npc-select');
     npcSelects.forEach(select => {
-      select.value = '';
+        select.value = '';
     });
     // To go through each dropdown and reset their selected value.
-  
-    //  Scroll to top or back to NPC grid
     window.scrollTo({ top: 0, behavior: 'auto' });
-  
+
+    //  Scroll to top or back to NPC grid
     const npcList = document.getElementById('npc-list');
     if (npcList) {
-      npcList.scrollIntoView({ behavior: 'smooth' });
+        npcList.scrollIntoView({ behavior: 'smooth' });
     }
-  }
-
+}
 
 // tags
 function scrollToCategory(id) {
@@ -165,6 +163,21 @@ function scrollToCategory(id) {
     }
 }
 
+function setActiveTag(activeId) {
+    document.querySelectorAll('.gift-nav .tags').forEach(btn => {
+        if (btn.dataset.target === activeId) {
+            btn.classList.add('active-tag');
+        } else {
+            btn.classList.remove('active-tag');
+        }
+    });
+}
+
+// tag nav bar
+// dynamically highlightig the active gift category tag based on which section is currently visible in the viewport as the user scrolls through the page. Looked at sources like : https://css-tricks.com/sticky-table-of-contents-with-scrolling-active-states/
+// I defined an array giftSections that contains the IDs of each category section. Then, I added a scroll event listener to the window.
+
+const giftSections = ['loved', 'liked', 'neutral', 'disliked', 'hated'];
 
 function setActiveTag(activeId) {
     document.querySelectorAll('.gift-nav .tags').forEach(btn => {
@@ -175,31 +188,41 @@ function setActiveTag(activeId) {
         }
     });
 }
-// dynamically highlightig the active gift category tag based on which section is currently visible in the viewport as the user scrolls through the page.
-// I defined an array giftSections that contains the IDs of each category section. Then, I added a scroll event listener to the window.
-const giftSections = ['loved', 'liked', 'neutral', 'disliked', 'hated'];
 
-window.addEventListener('scroll', () => {
-  let current = null;
+// Becasue on my web version "main-content" is scrollable but not he whole page, when I added it to just "window" - it did not work, so, I attached "scroll" to both
+// now it goes through all gift sections by ID. Uses `getBoundingClientRect()` to find their position  Picks the first one that’s roughly near the center of the screen
+//   https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect
 
- // Inside the scroll I checks its vertical position using getBoundingClientRect().top.
-  for (const id of giftSections) {
-    const section = document.getElementById(id);
-    const rect = section.getBoundingClientRect();
+function trackVisibleGiftSection() {
+    let current = null;
 
-    // If top of the section is near the top of viewport
-    // https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect - Source
-    //  If the top of the section is between -Xpx and Xpx from the top of the viewport, it's considered the "active" section.
-    if (rect.top <= 100 && rect.top >= -100) {
-      current = id;
-      break;
+    for (const id of giftSections) {
+        const section = document.getElementById(id);
+        if (!section) continue;
+
+        // If top of the section is near the top of viewport If the top of the section is between 0 and half the viewport height, it's considered the "active" section.
+        const rect = section.getBoundingClientRect();
+        const isVisible = rect.top >= 0 && rect.top <= window.innerHeight / 2;
+
+        if (isVisible) {
+            current = id;
+            break;
+        }
     }
-  }
 
-  if (current) {
-    setActiveTag(current);
-  }
-});
+    if (current) {
+        setActiveTag(current);
+    }
+}
+
+//  both listeners to support both layouts
+// `window.addEventListener` is for mobile layouts (full-page scroll) and `mainContent.addEventListener` is for dashboard layouts (scrolling only inside `.main-content`)
+window.addEventListener('scroll', trackVisibleGiftSection);
+
+const mainContent = document.querySelector('.main-content');
+if (mainContent) {
+    mainContent.addEventListener('scroll', trackVisibleGiftSection);
+}
 
 
 // modals
@@ -214,7 +237,6 @@ function closeModal(id) {
 
 
 // scroll to top
-
 // Get the button:from https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
 let topButton = document.getElementById("scroll-top");
 

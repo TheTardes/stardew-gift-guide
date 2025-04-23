@@ -140,7 +140,7 @@
 
 }
 
-@media (min-width:1300px){
+@media (min-width:1300px) {
 	.universalgifts-buttons {
 		border: 6px solid var(--brown);
 		display: flex;
@@ -157,5 +157,3 @@
 		}
 	}
 }
-
-
