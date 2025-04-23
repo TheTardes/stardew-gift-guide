@@ -55,7 +55,6 @@
 		--h1-size: 64px;
 	}
 
-
 	.back-button {
 		width: 155px;
 		position: absolute;
@@ -84,12 +83,6 @@
 		padding-inline: 20px;
 		margin-inline: 20px;
 	}
-
-
-	.universal-mobile {
-		display: none;
-	}
-
 
 	/* h1 */
 

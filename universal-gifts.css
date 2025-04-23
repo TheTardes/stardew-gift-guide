@@ -120,6 +120,10 @@
 		margin-bottom: 0px;
 	}
 
+	.universal-mobile {
+		display: none;
+	}
+
 	#universalGiftList {
 		grid-template-columns: repeat(4, 1fr);
 		padding-inline: 24px;
