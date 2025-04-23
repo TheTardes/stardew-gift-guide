@@ -29,8 +29,8 @@ This website was designed as part of Typography & Interaction class at Parsons S
 ## What I Learned
 
 - **Designing with Delight**: Merging cozy visual identity with functional UX to stay true to the game’s feel.  
-- **JavaScript UI Logic**: Smooth modals, tag-based navigation, scroll-to-top behavior, and dynamic content rendering.  
-- **Mobile-first UX Thinking**: Designed and tested with mobile users in mind before scaling to a dashboard layout.  
+- **JavaScript Logics**: Smooth modals, tag-based navigation, scroll-to-top behavior, and dynamic content rendering.  
+- **Mobile-first UX**: Designed and tested with mobile users in mind before scaling to a dashboard layout.  
 - **User Interaction Patterns**: Integrated helpful microinteractions and scroll behaviors to enhance learning flow.  
 
 ---
