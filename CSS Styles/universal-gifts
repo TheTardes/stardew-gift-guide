@@ -141,7 +141,7 @@
 	#scroll-top {
 		bottom: 24px;
 		right: 34px;
-	  }
+	}
 
 }
 

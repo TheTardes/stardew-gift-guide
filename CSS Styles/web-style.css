@@ -34,16 +34,16 @@
 
 }
 
-@media (min-width:768px){
+@media (min-width:768px) {
 	footer {
 		margin-top: 40px;
 		padding: 32px 80px;
-	  
+
 		& .warning {
-		  border: 2px dashed var(--brand);
+			border: 2px dashed var(--brand);
 		}
-	  }
-	
+	}
+
 }
 
 @media (min-width:1024px) {
@@ -241,15 +241,16 @@
 	footer {
 		margin-top: 40px;
 		padding: 32px 120px;
-	  
+
 		& .warning {
-		  border: 2px dashed var(--brand);
+			border: 2px dashed var(--brand);
 		}
-	  }
-	.footer-bottom{
+	}
+
+	.footer-bottom {
 		&>img {
-		  width: 50%;
+			width: 50%;
 		}
-	  }
+	}
 
 }
