@@ -23,12 +23,15 @@ function showNPCList(npcs) {
             <img src="${npc.image}" alt="${npc.name}">
             <div><strong>${npc.name}</strong></div>`;
         card.addEventListener('click', () => {
-            container.classList.add('hidden');        // Hide NPC grid
-            npcDisplay.classList.remove('hidden');    // Show gift view
+            // Hide NPC grid
+            container.hidden = true;
+            // Show gift view
+            npcDisplay.hidden = false;
             displayGifts({ value: npc.name });
         });
         container.appendChild(card);
     });
+
 }
 
 
@@ -46,8 +49,8 @@ const populateSelect = (npcList) => {
 
 const displayGifts = (npcSelect) => {
 
-    document.getElementById('npc-list').classList.add('hidden');
-    document.getElementById('npc-display').classList.remove('hidden');
+    document.getElementById('npc-list').hidden = true;
+    document.getElementById('npc-display').hidden = false;
 
 
     const selectedNPC = list.find((item) => item.name === npcSelect.value)
@@ -136,8 +139,8 @@ function showUniversalGifts(category) {
 
 // back
 function goBack() {
-    document.getElementById('npc-display').classList.add('hidden');
-    document.getElementById('npc-list').classList.remove('hidden');
+    document.getElementById('npc-display').hidden = true;
+    document.getElementById('npc-list').hidden = false;
 
     // Reset all (web and mobile) select dropdowns, Source https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll. I select class not the ID as I have 2 select dropdwons (web hidden on mobile)
     const npcSelects = document.querySelectorAll('.npc-select');
@@ -244,29 +247,29 @@ const scrollContainer = document.getElementById("main-content");
 // Detect scroll on main-content (web layout)
 scrollContainer.addEventListener("scroll", () => {
     scrollButton(scrollContainer.scrollTop);
-  });
-  
-  // Detect scroll on window (mobile layout)
-  window.addEventListener("scroll", () => {
+});
+
+// Detect scroll on window (mobile layout)
+window.addEventListener("scroll", () => {
     const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
     scrollButton(scrollTop);
-  });
-  
+});
+
 // When the user scrolls down 20px from the top of the document, show the button
 
 function scrollButton(scrollTop) {
     if (scrollTop > 20) {
-      topButton.style.display = "block";
+        topButton.style.display = "block";
     } else {
-      topButton.style.display = "none";
+        topButton.style.display = "none";
     }
-  };
+};
 
 // When the user clicks on the button, scroll to the top of the document for both window and main content
 function topFunction() {
     scrollContainer.scrollTo({ top: 0, behavior: 'smooth' });
     window.scrollTo({ top: 0, behavior: 'smooth' });
-  }
+}
 
 
 

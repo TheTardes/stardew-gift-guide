@@ -1,4 +1,10 @@
 /* npc list  grid */
+#npc-list[hidden],
+#npc-display[hidden] {
+  display: none !important;
+}
+
+
 .npc-grid {
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
